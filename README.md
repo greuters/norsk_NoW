@@ -4,6 +4,7 @@ norsk_NoW
 mnemosine (http://mnemosyne-proj.org/) vocabulary for NoW course
 
 stupid simple usage:
+
 1. download the norsk_chapterx_topic.txt files you want
 2. fire up mnemosine
 3. import from file (tab-separated text files)
@@ -12,6 +13,7 @@ stupid simple usage:
 5. have fun ;)
 
 stupid simple updates:
+
 1. create/change update your vocabulary
 2. use Ctrl+D to open the deactivate cards dialog
 3. uncheck "All tags" on the right, and make sure that "having any of these tags" is selected
@@ -23,6 +25,7 @@ stupid simple updates:
 8. send me the file, I'll check it into the repo (if it's good :p)
 
 better usage (you'll need to learn some really handy stuff, though)
+
 1. use git, make yourself familiar with it. an easy start could be http://rogerdudler.github.io/git-guide/
 2. git clone https://github.com/greuters/norsk_NoW.git
 3. create a fork and send me pull requests, if you want to modify
