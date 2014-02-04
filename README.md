@@ -5,12 +5,12 @@ mnemosine (http://mnemosyne-proj.org/) vocabulary for NoW course
 
 stupid simple usage:
 
-1. download the norsk_chapterx_topic.txt files you want
+1. download the norsk_chapterx_topic.txt files you want (easiest through "Download ZIP", on the right)
 2. fire up mnemosine
 3. import from file (tab-separated text files)
 4. use the file name as tag, replace '_' by '::', e.g.
    file 'norsk_chapter1_numbers.txt' => tag 'norsk::chapter1::numbers'
-5. have fun ;)
+5. have fun and check again for updates ;)
 
 stupid simple updates:
 
