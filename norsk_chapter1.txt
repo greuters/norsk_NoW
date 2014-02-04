@@ -1,0 +1,504 @@
+Hei!	hai<br>Hello!
+Hello!	Hei!<br>hai
+God morgen!	gu morn<br>Good morning!
+Good morning!	God morgen!<br>gu morn
+godt	godd<br>good
+good	godt<br>godd
+God dag (alle sammen)!	gud dag alle sammen<br>Good morning (day) everybody!<br>very formal, greeting "God dag!" not used
+Good morning (day) everybody!	God dag (alle sammen)!<br>gud dag alle sammen<br>very formal, greeting "God dag!" not used
+God kveld	gud kwell<br>Good evening<br>formal
+Good evening	God kveld<br>gud kwell<br>formal
+en kveld	en kwell<br>an evening
+an evening	en kveld<br>en kwell
+sein/sen	sen<br>late
+late	sein/sen<br>sen
+hvordan går det?	wodan gor de?<br>How's it going?
+How's it going?	hvordan går det?<br>wodan gor de?
+å går	oa goar<br>to go/walk
+to go/walk	å går<br>oa goar
+bare fint	just fine
+just fine	bare fint
+ikke så verst	igge so wäst<br>not bad
+not bad	ikke så verst<br>igge so wäst
+(sånu) passe	sonu passe<br>so, so; ok
+so, so; ok	(sånu) passe<br>sonu passe
+Hvordan har du det?	wodan har dü de?<br>How do you have it? (How are you)
+How do you have it? (How are you)	Hvordan har du det?<br>wodan har dü de?
+Ha det!	ha de<br>bye, bye
+bye, bye	Ha det!<br>ha de
+Vi ses!	wi ses<br>See you!<br>
+See you!<br>	Vi ses!<br>wi ses
+å se	oa se<br>to see
+to see	å se<br>oa se
+Vi snakkes (i morgen)!	We'll talk (again) tomorrow!
+We'll talk (again) tomorrow!	Vi snakkes (i morgen)!
+morna	moana<br>See you (only used in oslo)<br>only used in Oslo
+See you (only used in oslo)	morna<br>moana<br>only used in Oslo
+en lærer	en läirer<br>a teacher
+a teacher	en lærer<br>en läirer
+en bil	a car
+a car	en bil
+en kvinne	a woman
+a woman	en kvinne
+en ung(dom)	a young(ster)
+a young(ster)	en ung(dom)
+en pose	a bag
+a bag	en pose
+en stol	a chair
+a chair	en stol
+ei avis	a newspaper
+a newspaper	ei avis
+ei norsk krone	a norwegian crown
+a norwegian crown	ei norsk krone
+et ord	a word
+a word	et ord
+et hus	a house
+a house	et hus
+et språk	a language
+a language	et språk
+et eple	an apple
+an apple	et eple
+et problem	a problem
+a problem	et problem
+et bord	e bur<br>a table
+a table	et bord<br>e bur
+et nummer	a number
+a number	et nummer
+en kvittering	a receipt
+a receipt	en kvittering
+Hvenn?	wenn<br>Who?
+Who?	Hvenn?<br>wenn
+toget	the train
+the train	toget
+unnskyld	ünschüll<br>excuse me; i'm sorry for
+excuse me; i'm sorry for	unnskyld<br>ünschüll
+Det er ok/greit.	de är okaa/grait.<br>It's ok.
+It's ok.	Det er ok/greit.<br>de är okaa/grait.
+Ikke noe problem.	igge nooä prubleäm<br>No problem.
+No problem.	Ikke noe problem.<br>igge nooä prubleäm
+Det gjør ingenting.	Never mind.
+Never mind.	Det gjør ingenting.
+seinere/senere	säänere<br>later
+later	seinere/senere<br>säänere
+det bord	the table
+the table	det bord
+en bord	a table
+a table	en bord
+den stol	the chair
+the chair	den stol
+kilometer	chilometer<br>kilometer
+kilometer	kilometer<br>chilometer
+God tur!	Gu tür<br>Have a nice trip!
+Have a nice trip!	God tur!<br>Gu tür
+Hvor mye har du?	wor müe har dü?<br>How much do you have?
+How much do you have?	Hvor mye har du?<br>wor müe har dü?
+Lykke til!	Good luck!
+Good luck!	Lykke til!
+Jeg får alltid 1.	jei for allti eän.<br>I'm allways rolling one.
+I'm allways rolling one.	Jeg får alltid 1.<br>jei for allti eän.
+å få	to get, receive
+to get, receive	å få
+fjorten	fjurtn<br>fourteen
+fourteen	fjorten<br>fjurtn
+Hvordan uttaler du "14"?	How do you pronounce "14"?
+How do you pronounce "14"?	Hvordan uttaler du "14"?
+Hva heter 17 på norsk?	How do you say 17 in norwegian?
+How do you say 17 in norwegian?	Hva heter 17 på norsk?
+Hva betyr "seinere" på engelsk?	What does "seinere" mean in English?
+What does "seinere" mean in English?	Hva betyr "seinere" på engelsk?
+å forstå	oa foschtoh<br>to understand
+to understand	å forstå<br>oa foschtoh
+Kan du gjenta?	kan dü jenta?<br>Could you repeat?
+Could you repeat?	Kan du gjenta?<br>kan dü jenta?
+å leke med (ball, biler, dokker)	to play with (ball, cars, dolls)<br>without fixed/given rules
+to play with (ball, cars, dolls)	å leke med (ball, biler, dokker)<br>without fixed/given rules
+å spille (kort, fotball)	to play (cards, football)<br>with ruleset
+to play (cards, football)	å spille (kort, fotball)<br>with ruleset
+sentralstasjon	sentralstaschon<br>Central Station
+Central Station	sentralstasjon<br>sentralstaschon
+av	off (the train)
+off (the train)	av
+vil (gjerne) ta	I would like to take<br>ville is followed by infinitive
+I would like to take	vil (gjerne) ta<br>ville is followed by infinitive
+hun	she
+she	hun
+jeg	I
+I	jeg
+ham	him
+him	ham
+henne	her
+her	henne
+meg	mei<br>me
+me	meg<br>mei
+å hjelpe	to help
+to help	å hjelpe
+Kan du hjelpe meg?	kan dü jelpe mai?<br>Can you help me?
+Can you help me?	Kan du hjelpe meg?<br>kan dü jelpe mai?
+Jeg skal dra..	I'm going to..
+I'm going to..	Jeg skal dra..
+Jeg vil snakke	I'll speak
+I'll speak	Jeg vil snakke
+Jeg må forstå	I must (have to) understand
+I must (have to) understand	Jeg må forstå
+å kjøre	chjöre<br>to drive
+to drive	å kjøre<br>chjöre
+snart	soon
+soon	snart
+veldig godt	velde got<br>very good/well
+very good/well	veldig godt<br>velde got
+en gutt	en güt<br>a boy
+a boy	en gutt<br>en güt
+Takk, det samme!	Thanks, the same to you!
+Thanks, the same to you!	Takk, det samme!
+I like måte!	I like mote!<br>Likewise!
+Likewise!	I like måte!<br>I like mote!
+tjue	chüyä<br>twenty
+twenty	tjue<br>chüyä
+tretti	thirty
+thirty	tretti
+førtiåtte	fourty eight
+fourty eight	førtiåtte
+femti	fifty
+fifty	femti
+sekstifire	sixty four
+sixty four	sekstifire
+syttini	söttini<br>seventy nine
+seventy nine	syttini<br>söttini
+åtti	otti<br>eighty
+eighty	åtti<br>otti
+nittini	ninety nine
+ninety nine	nittini
+nitten nittini	nineteen ninety nine (year)
+nineteen ninety nine (year)	nitten nittini
+flaks	(good) luck
+(good) luck	flaks
+uflaks	bad luck
+bad luck	uflaks
+et rule	a rule
+a rule	et rule
+et spill	a game
+a game	et spill
+førstemann	first one
+first one	førstemann
+å kaste	to throw
+to throw	å kaste
+en terning	a die
+a die	en terning
+en gang	one time
+one time	en gang
+en gang til	one more time
+one more time	en gang til
+din tur	your turn
+your turn	din tur
+Hvor mye?	wo müe<br>How much?
+How much?	Hvor mye?<br>wo müe
+min tur	my turn
+my turn	min tur
+vant (spillet)	won (the game)
+won (the game)	vant (spillet)
+å vinne	to win
+to win	å vinne
+å spille	to play (specific games/instruments)
+to play (specific games/instruments)	å spille
+Båkmal	buukmol<br>~written danish, norwegianized
+~written danish, norwegianized	Båkmal<br>buukmol
+Nynorsk	nünorsch<br>norwegian, invented from dialects
+norwegian, invented from dialects	Nynorsk<br>nünorsch
+trøndsk	trondelag dialect<br>rolling r, similar pronounciation to oslo
+trondelag dialect	trøndsk<br>rolling r, similar pronounciation to oslo
+norsk	norschg<br>norwegian
+norwegian	norsk<br>norschg
+Oslo	ushlo<br>Oslo
+Oslo	Oslo<br>ushlo
+og	and
+and	og
+jeg er ikke gift	I'm not married
+I'm not married	jeg er ikke gift
+jeg har	I have
+I have	jeg har
+Hun er seks år (gammel).	hün arschecks or (r and s merge together to sch in trondersk)<br>She's six years (old).
+She's six years (old).	Hun er seks år (gammel).<br>hün arschecks or (r and s merge together to sch in trondersk)
+Hva jobber du med?	wa jobbe (like yak, not jam) dü me?<br>What are you working?
+What are you working?	Hva jobber du med?<br>wa jobbe (like yak, not jam) dü me?
+Du er flink i norsk!	You are good at Norwegian.
+You are good at Norwegian.	Du er flink i norsk!
+nei	nai<br>no
+no	nei<br>nai
+ja	ja (short a)<br>yes
+yes	ja<br>ja (short a)
+Jeg studerer på NTNU.	I'm studying at NTNU.
+I'm studying at NTNU.	Jeg studerer på NTNU.
+norsklærer	norwegian (language) teacher
+norwegian (language) teacher	norsklærer
+Østerrike	österigge<br>Austria
+Austria	Østerrike<br>österigge
+Sveiz	swaiz<br>Switzerland
+Switzerland	Sveiz<br>swaiz
+Nederland	nederlan<br>the Netherlands
+the Netherlands	Nederland<br>nederlan
+Usbekistan	Usbekistan
+Usbekistan	Usbekistan
+Italia	Italy
+Italy	Italia
+Kanada	Canada
+Canada	Kanada
+Frankrike	franggrike<br>France
+France	Frankrike<br>franggrike
+Serbia	Serbia
+Serbia	Serbia
+Spania	Spain
+Spain	Spania
+Mexico	Mexico
+Mexico	Mexico
+Polen	vekt på e<br>Poland
+Poland	Polen<br>vekt på e
+Va hetter du?	What's your name?
+What's your name?	Va hetter du?
+Tyskland	tüsklan<br>Germany
+Germany	Tyskland<br>tüsklan
+Vien	Vienna
+Vienna	Vien
+Norge	norge<br>Norway
+Norway	Norge<br>norge
+Jeg heter Ole.	yei heter ule<br>My name is Ole.
+My name is Ole.	Jeg heter Ole.<br>yei heter ule
+Hvor kommer du fra?	Where are you from?
+Where are you from?	Hvor kommer du fra?
+Bor du i Mexico nå?	bur dü i mexiko no<br>Do you live in Mexico now?
+Do you live in Mexico now?	Bor du i Mexico nå?<br>bur dü i mexiko no
+Jeg bor ikke i Mexico nå.	I'm not living in Mexico at the moment.
+I'm not living in Mexico at the moment.	Jeg bor ikke i Mexico nå.
+Hvor i Kanada kommer du fra?	Where in Canada are you from?
+Where in Canada are you from?	Hvor i Kanada kommer du fra?
+Jeg kommer fra Quebec	I'm from Quebec.
+I'm from Quebec.	Jeg kommer fra Quebec
+ikke	igge<br>not
+not	ikke<br>igge
+fra	from
+from	fra
+Han heter Tobias.	He's called Tobias
+He's called Tobias	Han heter Tobias.
+å leve	to live
+to live	å leve
+Jeg bor i Herman Krags vei i Trondheim i Norge.	I live in Norway, Herman Krags vei in Trondheim.<br>zoom out instead of in (start with most local name)
+I live in Norway, Herman Krags vei in Trondheim.	Jeg bor i Herman Krags vei i Trondheim i Norge.<br>zoom out instead of in (start with most local name)
+o	u<br>o
+o	o<br>u
+ø	ö<br>-
+-	ø<br>ö
+æ	ä<br>-
+-	æ<br>ä
+a	a<br>a
+a	a<br>a
+men	men<br>but
+but	men<br>men
+gift	yift<br>married
+married	gift<br>yift
+å vare	to be
+to be	å vare
+nå	now
+now	nå
+fint	fine
+fine	fint
+bra	good
+good	bra
+på	on/at
+on/at	på
+Hva gjør du i Trondheim?	va yör dü i tronnheim?<br>What are you doing in Trondheim?
+What are you doing in Trondheim?	Hva gjør du i Trondheim?<br>va yör dü i tronnheim?
+Spørsmal?	späschmol<br>Questions?
+Questions?	Spørsmal?<br>späschmol
+å sparre	oa spörre<br>to ask
+to ask	å sparre<br>oa spörre
+ogsa	osso<br>also
+also	ogsa<br>osso
+å dra	to go (travel, move)
+to go (travel, move)	å dra
+Jeg forstå litt norsk, med snakker ikke.	I understand a bit of norwegian, but don't speak any.
+I understand a bit of norwegian, but don't speak any.	Jeg forstå litt norsk, med snakker ikke.
+en antropologi	an antrhropology
+an antrhropology	en antropologi
+en arkitektur	an architecture
+an architecture	en arkitektur
+bare	just, only
+just, only	bare
+bare bra!	just fine
+just fine	bare bra!
+å bli	to become, will be, turn out<br>blir, ble, har blitt
+to become, will be, turn out	å bli<br>blir, ble, har blitt
+å bo	to live<br>bor, bodde, har bodd
+to live	å bo<br>bor, bodde, har bodd
+en brus	en brüs<br>a (bottle of) soda pop<br>brusen, brus, brusene
+a (bottle of) soda pop	en brus<br>en brüs<br>brusen, brus, brusene
+en båt	a boat<br>båten, båter, båtene
+a boat	en båt<br>båten, båter, båtene
+ei dame	a lady<br>dama, damer, damene
+a lady	ei dame<br>dama, damer, damene
+de	di<br>they
+they	de<br>di
+deg	dai<br>you (singular, used as object)
+you (singular, used as object)	deg<br>dai
+den	it
+it	den
+der	there
+there	der
+der borte	over there
+over there	der borte
+dere	you (plural)
+you (plural)	dere
+det	it, that
+it, that	det
+det går bra!	I'm fine!
+I'm fine!	det går bra!
+du	you (singular, subject)
+you (singular, subject)	du
+ei	a, an, one
+a, an, one	ei
+en ekspeditør	a shop assistant<br>ekspeditøren, ekspeditører, ekspeditørene
+a shop assistant	en ekspeditør<br>ekspeditøren, ekspeditører, ekspeditørene
+en	a, an, one
+a, an, one	en
+engelsk	English
+English	engelsk
+er (å være)	am, are, is
+am, are, is	er (å være)
+et	a, an
+a, an	et
+en familie	a family <br>familien, familier, familiene
+a family 	en familie<br>familien, familier, familiene
+flink	good, clever / being good at<br>flinkt, flinke
+good, clever / being good at	flink<br>flinkt, flinke
+et fly	a plane<br>flyet, fly, flyene
+a plane	et fly<br>flyet, fly, flyene
+gammel	old<br>gammelt, gamle
+old	gammel<br>gammelt, gamle
+å gjøre	oa yör<br>to do<br>gjør, gjorde, har gjort
+to do	å gjøre<br>oa yör<br>gjør, gjorde, har gjort
+god	good
+good	god
+å ha	to have<br>har, hadde, har hatt
+to have	å ha<br>har, hadde, har hatt
+ha det bra!	goodbye! be fine!
+goodbye! be fine!	ha det bra!
+ha det!	so long
+so long	ha det!
+hallo	hello
+hello	hallo
+han	he, him
+he, him	han
+her	here
+here	her
+å hete	to be called<br>heter, het, har hett
+to be called	å hete<br>heter, het, har hett
+å hilse	to greet<br>hilser, hilste, har hilst
+to greet	å hilse<br>hilser, hilste, har hilst
+hva	what
+what	hva
+hvor	where
+where	hvor
+hvor langt	how far
+how far	hvor langt
+hvordan	wodang<br>how
+how	hvordan<br>wodang
+hyggelig	nice, pleasant
+nice, pleasant	hyggelig
+hyggelig å hilse på deg!	nice to meet you!
+nice to meet you!	hyggelig å hilse på deg!
+i	in, at, on
+in, at, on	i
+italiensk	italian
+italian	italiensk
+ei jente	a girl<br>jenta, jenter, jentene
+a girl	ei jente<br>jenta, jenter, jentene
+å jobbe	oa yobbe<br>to work<br>jobber, jobbet, har jobbet
+to work	å jobbe<br>oa yobbe<br>jobber, jobbet, har jobbet
+kanskje	perhaps, maybe
+perhaps, maybe	kanskje
+et kart	a map<br>kartet, kart, kartene
+a map	et kart<br>kartet, kart, kartene
+en kilometer	en chylometer<br>a kilometer<br>kilometeren, kilometer, kilometerne
+a kilometer	en kilometer<br>en chylometer<br>kilometeren, kilometer, kilometerne
+å komme	to come<br>kommer, kom, han kommet
+to come	å komme<br>kommer, kom, han kommet
+å koste	to cost<br>koster, kostet, har kostet
+to cost	å koste<br>koster, kostet, har kostet
+ei krone	ai krune<br>a crown<br>krona, kroner, kronene
+a crown	ei krone<br>ai krune<br>krona, kroner, kronene
+langt	far
+far	langt
+ledig	vacant<br>ledig, ledige
+vacant	ledig<br>ledig, ledige
+litt	a little/some (not just little)
+a little/some (not just little)	litt
+med	me<br>with
+with	med<br>me
+en morgen	en moan<br>a morning<br>morgen, morgener, morgenene
+a morning	en morgen<br>en moan<br>morgen, morgener, morgenene
+å møte	to meet<br>møter, møtte, har møtt
+to meet	å møte<br>møter, møtte, har møtt
+neste	next
+next	neste
+OK	okaa<br>OK, allright
+OK, allright	OK<br>okaa
+over	of, over
+of, over	over
+en professor	a professor<br>professoren, professorer, professorene
+a professor	en professor<br>professoren, professorer, professorene
+å reise	to travel<br>reiser, reiste, har reist
+to travel	å reise<br>reiser, reiste, har reist
+sammen	together
+together	sammen
+seinere	later
+later	seinere
+seks	six
+six	seks
+å ses	to see one another, to meet<br>ses, sås, har settes
+to see one another, to meet	å ses<br>ses, sås, har settes
+å snakke	to speak/talk<br>snakker, snakket, har snakket
+to speak/talk	å snakke<br>snakker, snakket, har snakket
+spansk	Spanish
+Spanish	spansk
+å stoppe	to stop<br>stopper, stoppet, har stoppet
+to stop	å stoppe<br>stopper, stoppet, har stoppet
+å studere	to study<br>studerer, studerte, har studert
+to study	å studere<br>studerer, studerte, har studert
+å ta	to take<br>tar, tok, har tatt
+to take	å ta<br>tar, tok, har tatt
+takk	thanks
+thanks	takk
+til	to
+to	til
+tilbake	back
+back	tilbake
+et tog	a train<br>toget, tog, togene
+a train	et tog<br>toget, tog, togene
+en tur	a trip<br>turen, turer, turene
+a trip	en tur<br>turen, turer, turene
+(en) tusen	(one) thousand
+(one) thousand	(en) tusen
+tysk	German
+German	tysk
+velkommen	welcome
+welcome	velkommen
+vi	we
+we	vi
+vær så god!	wä scho gud<br>you're welcome! please! here you are!
+you're welcome! please! here you are!	vær så god!<br>wä scho gud
+å være	to be, exist<br>er, var, har vært
+to be, exist	å være<br>er, var, har vært
+å	o<br>to (infinitive marker)
+to (infinitive marker)	å<br>o
+en mann	a man<br>mannen, mange menn, alle mennene
+a man	en mann<br>mannen, mange menn, alle mennene
+en student	a student
+a student	en student
+en turist	a tourist<br>turisten, turister, turistene
+a tourist	en turist<br>turisten, turister, turistene
+en by	a city<br>byen, byer, byene
+a city	en by<br>byen, byer, byene
+en dag	a day<br>dagen, dager, dagene
+a day	en dag<br>dagen, dager, dagene
+en bensinstasjon	a petrol station
+a petrol station	en bensinstasjon
+et år	a year
+a year	et år

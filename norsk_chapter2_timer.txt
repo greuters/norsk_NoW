@@ -1,0 +1,30 @@
+fem over ti (om kvelden)	22.05 (in the evening)
+22.05 (in the evening)	fem over ti (om kvelden)
+fem over ti om formiddagen	10.05
+10.05	fem over ti om formiddagen
+fem over halv seks	17.35
+17.35	fem over halv seks
+kvart på fem om natta	04.45
+04.45	kvart på fem om natta
+kvart over toll (om natta)	00.15
+00.15	kvart over toll (om natta)
+midnatt	midnight
+midnight	midnatt
+fem på halv åtte	19.25
+19.25	fem på halv åtte
+kvar på sju (om morgenen)	06.45
+06.45	kvar på sju (om morgenen)
+ti på halv to	13.20
+13.20	ti på halv to
+ti over elleve (om formiddagen)	11.10
+11.10	ti over elleve (om formiddagen)
+fem på fire (om ettermiddagen)	15.55
+15.55	fem på fire (om ettermiddagen)
+Det er mandag i dag. / I dag er det mandag.	It's monday today. / Today is monday.<br>Subject-verb inversion is preferred => use the second version
+It's monday today. / Today is monday.	Det er mandag i dag. / I dag er det mandag.<br>Subject-verb inversion is preferred => use the second version
+Vi drar klokka fire => Klokka fire drar vi	We'll leave at four o'clock<br>use inversion
+We'll leave at four o'clock	Vi drar klokka fire => Klokka fire drar vi<br>use inversion
+Klokka fem på tre drar hun til Moholt.	She's going to Moholt at five to three.
+She's going to Moholt at five to three.	Klokka fem på tre drar hun til Moholt.
+Halv åtte kal vi dra til sentralstasjonen.	We'll go to central station half past seven.
+We'll go to central station half past seven.	Halv åtte kal vi dra til sentralstasjonen.

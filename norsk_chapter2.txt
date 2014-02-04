@@ -1,0 +1,242 @@
+mandag	monday
+monday	mandag
+fredag	friday
+friday	fredag
+lørdag	saturday
+saturday	lørdag
+søndag	sunday
+sunday	søndag
+en forsker	a researcher<br>forskeren, mange forskere, alle forskerne
+a researcher	en forsker<br>forskeren, mange forskere, alle forskerne
+en tysker	a German<br>tyskeren, to tyskere, alle tyskerne
+a German	en tysker<br>tyskeren, to tyskere, alle tyskerne
+en italiener	an Italian
+an Italian	en italiener
+en spanjol	en spanjul<br>a Spanish
+a Spanish	en spanjol<br>en spanjul
+en nøkkel	a key<br>nøkkelen, mange nøkler, alle nøklene
+a key	en nøkkel<br>nøkkelen, mange nøkler, alle nøklene
+en sykkel	a bike<br>sykelen, tre sykler, alle syklene
+a bike	en sykkel<br>sykelen, tre sykler, alle syklene
+en mann	a man<br>mannen, mange menn, alle mennene
+a man	en mann<br>mannen, mange menn, alle mennene
+en nordmann	a Norwegian<br>nordmannen, mange nordmenn, alle nordmennene
+a Norwegian	en nordmann<br>nordmannen, mange nordmenn, alle nordmennene
+Jeg leder.	I'm in lead.
+I'm in lead.	Jeg leder.
+Jeg taper alltid.	I always lose.
+I always lose.	Jeg taper alltid.
+Du vinner alltid.	You always win.
+You always win.	Du vinner alltid.
+Du jukser!	You're cheating!
+You're cheating!	Du jukser!
+seksti	sixty
+sixty	seksti
+seksten	seisten<br>sixteen
+sixteen	seksten<br>seisten
+en genser	a sweater<br>genseren, 
+a sweater	en genser<br>genseren, 
+Hva koster den?	How much does it cost?
+How much does it cost?	Hva koster den?
+Genseren koster 249 kroner.	The sweater costs 249 crowns.
+The sweater costs 249 crowns.	Genseren koster 249 kroner.
+Hvor mye koster den?	How much does it cost?
+How much does it cost?	Hvor mye koster den?
+Hva koster den billetten?	How much does the ticket cost?
+How much does the ticket cost?	Hva koster den billetten?
+to hundre førtini femti (NOK)	249,50 (NOK)<br>could also say to hundre førtini og femti øre, but this is outfashioned
+249,50 (NOK)	to hundre førtini femti (NOK)<br>could also say to hundre førtini og femti øre, but this is outfashioned
+en student	a student
+a student	en student
+studenten	the student
+the student	studenten
+tre studenter	three students
+three students	tre studenter
+alle studentene	all students
+all students	alle studentene
+en turist	a tourist<br>turisten, turister, turistene
+a tourist	en turist<br>turisten, turister, turistene
+turisten	the tourist
+the tourist	turisten
+tre turister	three tourists
+three tourists	tre turister
+alle turistene	all tourists
+all tourists	alle turistene
+en by	a city<br>byen, byer, byene
+a city	en by<br>byen, byer, byene
+byen	the city
+the city	byen
+tre byer	three cities
+three cities	tre byer
+alle byene	all cities
+all cities	alle byene
+et frimerke	a stamp
+a stamp	et frimerke
+frimerket	the stamp
+the stamp	frimerket
+tre frimerker	three stamps
+three stamps	tre frimerker
+alle frimerkene	all stamps
+all stamps	alle frimerkene
+avisa	the newspaper
+the newspaper	avisa
+fire aviser	four newspapers
+four newspapers	fire aviser
+alle avisene	all newspapers
+all newspapers	alle avisene
+to tog	two trains
+two trains	to tog
+alle togene	all trains
+all trains	alle togene
+kartet	the map
+the map	kartet
+åtte kart	eight maps
+eight maps	åtte kart
+alle kartene	all maps
+all maps	alle kartene
+en dag	a day<br>dagen, dager, dagene
+a day	en dag<br>dagen, dager, dagene
+dagen	the day
+the day	dagen
+fem dager	five days
+five days	fem dager
+alle dagene	all days
+all days	alle dagene
+en bensinstasjon	a petrol station
+a petrol station	en bensinstasjon
+bensinstasjonen	the petrol station
+the petrol station	bensinstasjonen
+seks bensinstasjoner	six petrol stations
+six petrol stations	seks bensinstasjoner
+alle bensinstasjonene	all petrol stations
+all petrol stations	alle bensinstasjonene
+Det er mandag i dag.	It's monday today.
+It's monday today.	Det er mandag i dag.
+Det er tirsdag i morgen.	It's tuesday tomorrow
+It's tuesday tomorrow	Det er tirsdag i morgen.
+Hvilken (masculine)	Which/what (masculine)
+Which/what (masculine)	Hvilken (masculine)
+Hvilken dag er det i dag?	Which day is it today?
+Which day is it today?	Hvilken dag er det i dag?
+Hvilken (feminine)	What/which (feminine)
+What/which (feminine)	Hvilken (feminine)
+Hvilken avis leser du?	Which paper do you read?
+Which paper do you read?	Hvilken avis leser du?
+Hvilket (neuter)	Which/what (neutral)
+Which/what (neutral)	Hvilket (neuter)
+Hvilket tog skal du ta?	Which train are you going to take?
+Which train are you going to take?	Hvilket tog skal du ta?
+Hvilket språk snakker du?	Which language do you speak?
+Which language do you speak?	Hvilket språk snakker du?
+koreansk	Corean
+Corean	koreansk
+Hvilke aviser leser du?	Which newspapers are you reading?
+Which newspapers are you reading?	Hvilke aviser leser du?
+Hvilke (plural)	Which/what (plural)
+Which/what (plural)	Hvilke (plural)
+Hvilke språk snakker du?	Which languages do you speak?
+Which languages do you speak?	Hvilke språk snakker du?
+Hva slags (språk)?	wa schlags<br>What kind of (languages)?
+What kind of (languages)?	Hva slags (språk)?<br>wa schlags
+tirsdag	tischdag<br>tuesday
+tuesday	tirsdag<br>tischdag
+torsdag	toschdag<br>thursday
+thursday	torsdag<br>toschdag
+onsdag	önsdag<br>wednesday
+wednesday	onsdag<br>önsdag
+en formiddag	a morning (9-12), vormittag
+a morning (9-12), vormittag	en formiddag
+midt på dagen	noon/mid-day
+noon/mid-day	midt på dagen
+en ettermiddag	an afternoon
+an afternoon	en ettermiddag
+ei natt	ai nat<br>a night
+a night	ei natt<br>ai nat
+et døgn	et deyn<br>24 hours
+24 hours	et døgn<br>et deyn
+ei uke	a week
+a week	ei uke
+ei helg	a weekend
+a weekend	ei helg
+en måned	a month
+a month	en måned
+et år	a year
+a year	et år
+Hva er klokka? Hvor mye er klokka? Hvor mange er klokka?	What's the time?
+What's the time?	Hva er klokka? Hvor mye er klokka? Hvor mange er klokka?
+en time	one hour
+one hour	en time
+en minutt	one minute
+one minute	en minutt
+Jeg har en time (på lege).	I have an appointment (with the doctor).
+I have an appointment (with the doctor).	Jeg har en time (på lege).
+Jeg har ei time nå.	I have a class now.
+I have a class now.	Jeg har ei time nå.
+ett	one o'clock
+one o'clock	ett
+kvart over ett	a quarter past one
+a quarter past one	kvart over ett
+halv to	half past
+half past	halv to
+kvart på to	a quarter to two
+a quarter to two	kvart på to
+Klokka er to.	It's two o'clock.
+It's two o'clock.	Klokka er to.
+Den er sytte.	It's seven.
+It's seven.	Den er sytte.
+ti over halv sju	ti over hal schü<br>18.40
+18.40	ti over halv sju<br>ti over hal schü
+en side	a page (page number)
+a page (page number)	en side
+Når komer Peter?	When does Peter come?
+When does Peter come?	Når komer Peter?
+Når?	When?
+When?	Når?
+Hun kommer klokka halv ni.	He's coming at 8.30.
+He's coming at 8.30.	Hun kommer klokka halv ni.
+Bussen kommer (klokka) halv ni.	The bus is coming half past eight.<br>klokka is optional
+The bus is coming half past eight.	Bussen kommer (klokka) halv ni.<br>klokka is optional
+Bussen går.	The bus leaves.
+The bus leaves.	Bussen går.
+Bussen kjører	bussen chjöre<br>The bus drives
+The bus drives	Bussen kjører<br>bussen chjöre
+Vi skal (dra) til City Syd halv åtte.	We shall go to City Syd half past seven.<br>dra is optional, verbs of movement can be omitted after skal
+We shall go to City Syd half past seven.	Vi skal (dra) til City Syd halv åtte.<br>dra is optional, verbs of movement can be omitted after skal
+Hun må (går) hjem.	She must go home.<br>går is optional, verb of movement
+She must go home.	Hun må (går) hjem.<br>går is optional, verb of movement
+en venn	a friend
+a friend	en venn
+Jeg skal snakke med venner.	I'm going to speak with a friend.
+I'm going to speak with a friend.	Jeg skal snakke med venner.
+å lage mat	to cook
+to cook	å lage mat
+å gå på tur	to go hiking
+to go hiking	å gå på tur
+å gå en tur	to go for a walk
+to go for a walk	å gå en tur
+Først skal jeg lage mat. Så skal jeg trene i kveld.	First I'll cook, then I'm going to workout in the evening.
+First I'll cook, then I'm going to workout in the evening.	Først skal jeg lage mat. Så skal jeg trene i kveld.
+så	so, then
+so, then	så
+etterpå	afterwards
+afterwards	etterpå
+en film	a movie
+a movie	en film
+en brun stol	a brown chair
+a brown chair	en brun stol
+et brunt bord	a brown table
+a brown table	et brunt bord
+to brune stoler	two brown chairs
+two brown chairs	to brune stoler
+Jeg har ei brun veske.	I have a brown ¿bag?.
+I have a brown ¿bag?.	Jeg har ei brun veske.
+Jeg har to gule bord.	I have two yellow tables.
+I have two yellow tables.	Jeg har to gule bord.
+gul	yellow
+yellow	gul
+Stolen er brun.	The chair is brown.
+The chair is brown.	Stolen er brun.
+Bordet er brunt.	The table is brown.
+The table is brown.	Bordet er brunt.
+Bordene/Stolener er gule	The tables/chairs are yellow.
+The tables/chairs are yellow.	Bordene/Stolener er gule
