@@ -32,8 +32,8 @@ See you!<br>	Vi ses!<br>wi ses
 to see	å se<br>oa se
 Vi snakkes (i morgen)!	We'll talk (again) tomorrow!
 We'll talk (again) tomorrow!	Vi snakkes (i morgen)!
-morna	moana<br>See you (only used in oslo)<br>only used in Oslo
-See you (only used in oslo)	morna<br>moana<br>only used in Oslo
+morna	moana<br>See you (only used in oslo)
+See you (only used in oslo)	morna<br>moana
 en lærer	en läirer<br>a teacher
 a teacher	en lærer<br>en läirer
 en bil	a car
@@ -184,8 +184,8 @@ first one	førstemann
 to throw	å kaste
 en terning	a die
 a die	en terning
-en gang	one time
-one time	en gang
+en gang	one time/once
+one time/once	en gang
 en gang til	one more time
 one more time	en gang til
 din tur	your turn
@@ -284,10 +284,10 @@ Jeg bor i Herman Krags vei i Trondheim i Norge.	I live in Norway, Herman Krags v
 I live in Norway, Herman Krags vei in Trondheim.	Jeg bor i Herman Krags vei i Trondheim i Norge.<br>zoom out instead of in (start with most local name)
 o	u<br>o
 o	o<br>u
-ø	ö<br>-
--	ø<br>ö
-æ	ä<br>-
--	æ<br>ä
+ø	ö<br>o (in word)
+o (in word)	ø<br>ö
+æ	ä<br>a (in hammer, jam)
+a (in hammer, jam)	æ<br>ä
 a	a<br>a
 a	a<br>a
 men	men<br>but
@@ -306,18 +306,18 @@ på	on/at
 on/at	på
 Hva gjør du i Trondheim?	va yör dü i tronnheim?<br>What are you doing in Trondheim?
 What are you doing in Trondheim?	Hva gjør du i Trondheim?<br>va yör dü i tronnheim?
-Spørsmal?	späschmol<br>Questions?
-Questions?	Spørsmal?<br>späschmol
-å sparre	oa spörre<br>to ask
-to ask	å sparre<br>oa spörre
+Spørsmal?	spöschmol<br>Question(s)?
+Question(s)?	Spørsmal?<br>spöschmol
+å spørre	oa spörre<br>to ask
+to ask	å spørre<br>oa spörre
 ogsa	osso<br>also
 also	ogsa<br>osso
 å dra	to go (travel, move)
 to go (travel, move)	å dra
-Jeg forstå litt norsk, med snakker ikke.	I understand a bit of norwegian, but don't speak any.
-I understand a bit of norwegian, but don't speak any.	Jeg forstå litt norsk, med snakker ikke.
-en antropologi	an antrhropology
-an antrhropology	en antropologi
+Jeg forstå litt norsk, men snakker ikke.	I understand a bit of norwegian, but don't speak any.
+I understand a bit of norwegian, but don't speak any.	Jeg forstå litt norsk, men snakker ikke.
+en antropologi	an anthropology
+an anthropology	en antropologi
 en arkitektur	an architecture
 an architecture	en arkitektur
 bare	just, only
@@ -352,18 +352,18 @@ det går bra!	I'm fine!
 I'm fine!	det går bra!
 du	you (singular, subject)
 you (singular, subject)	du
-ei	a, an, one
-a, an, one	ei
+ei	a, an, one (feminine)
+a, an, one (feminine)	ei
 en ekspeditør	a shop assistant<br>ekspeditøren, ekspeditører, ekspeditørene
 a shop assistant	en ekspeditør<br>ekspeditøren, ekspeditører, ekspeditørene
-en	a, an, one
-a, an, one	en
+en	a, an, one (masculin)
+a, an, one (masculin)	en
 engelsk	English
 English	engelsk
 er (å være)	am, are, is
 am, are, is	er (å være)
-et	a, an
-a, an	et
+et	a, an (neutrum)
+a, an (neutrum)	et
 en familie	a family <br>familien, familier, familiene
 a family 	en familie<br>familien, familier, familiene
 flink	good, clever / being good at<br>flinkt, flinke
@@ -402,8 +402,8 @@ hvordan	wodang<br>how
 how	hvordan<br>wodang
 hyggelig	nice, pleasant
 nice, pleasant	hyggelig
-hyggelig å hilse på deg!	nice to meet you!
-nice to meet you!	hyggelig å hilse på deg!
+hyggelig å hilse på deg!	hügeli o hilse po dei<br>(ü nid würkli forme)<br>nice to meet you!
+nice to meet you!	hyggelig å hilse på deg!<br>hügeli o hilse po dei<br>(ü nid würkli forme)
 i	in, at, on
 in, at, on	i
 italiensk	italian
