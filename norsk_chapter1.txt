@@ -76,16 +76,16 @@ Det er ok/greit.	de är okaa/grait.<br>It's ok.
 It's ok.	Det er ok/greit.<br>de är okaa/grait.
 Ikke noe problem.	igge nooä prubleäm<br>No problem.
 No problem.	Ikke noe problem.<br>igge nooä prubleäm
-Det gjør ingenting.	Never mind.
-Never mind.	Det gjør ingenting.
+Det gjør ingenting.	Never mind (it doesn't do anything).
+Never mind (it doesn't do anything).	Det gjør ingenting.
 seinere/senere	säänere<br>later
 later	seinere/senere<br>säänere
 det bord	the table
 the table	det bord
 en bord	a table
 a table	en bord
-den stol	the chair
-the chair	den stol
+stolen	the chair
+the chair	stolen
 kilometer	chilometer<br>kilometer
 kilometer	kilometer<br>chilometer
 God tur!	Gu tür<br>Have a nice trip!
@@ -118,8 +118,8 @@ sentralstasjon	sentralstaschon<br>Central Station
 Central Station	sentralstasjon<br>sentralstaschon
 av	off (the train)
 off (the train)	av
-vil (gjerne) ta	I would like to take<br>ville is followed by infinitive
-I would like to take	vil (gjerne) ta<br>ville is followed by infinitive
+jeg vil (gjerne) ta	I would like to take<br>å ville is followed by infinitive
+I would like to take	jeg vil (gjerne) ta<br>å ville is followed by infinitive
 hun	she
 she	hun
 jeg	I
@@ -134,8 +134,8 @@ me	meg<br>mei
 to help	å hjelpe
 Kan du hjelpe meg?	kan dü jelpe mai?<br>Can you help me?
 Can you help me?	Kan du hjelpe meg?<br>kan dü jelpe mai?
-Jeg skal dra..	I'm going to..
-I'm going to..	Jeg skal dra..
+Jeg skal dra..	yei skal dra<br>I'm going to..
+I'm going to..	Jeg skal dra..<br>yei skal dra
 Jeg vil snakke	I'll speak
 I'll speak	Jeg vil snakke
 Jeg må forstå	I must (have to) understand
@@ -494,8 +494,8 @@ en student	a student
 a student	en student
 en turist	a tourist<br>turisten, turister, turistene
 a tourist	en turist<br>turisten, turister, turistene
-en by	a city<br>byen, byer, byene
-a city	en by<br>byen, byer, byene
+en by	en bi<br>a city<br>byen, byer, byene
+a city	en by<br>en bi<br>byen, byer, byene
 en dag	a day<br>dagen, dager, dagene
 a day	en dag<br>dagen, dager, dagene
 en bensinstasjon	a petrol station
