@@ -174,8 +174,8 @@ ett	one o'clock
 one o'clock	ett
 kvart over ett	a quarter past one
 a quarter past one	kvart over ett
-halv to (to)	hal tu tu<br>half past (one)
-half past (one)	halv to (to)<br>hal tu tu
+halv to	hal tu<br>half past one
+half past one	halv to<br>hal tu
 kvart på to	a quarter to two
 a quarter to two	kvart på to
 Klokka er to.	It's two o'clock.

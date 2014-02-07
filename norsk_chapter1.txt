@@ -50,8 +50,8 @@ ei avis	a newspaper
 a newspaper	ei avis
 ei norsk krone	a norwegian crown
 a norwegian crown	ei norsk krone
-et ord	a word
-a word	et ord
+et ord	et uur<br>a word
+a word	et ord<br>et uur
 et hus	a house
 a house	et hus
 et språk	a language
@@ -80,14 +80,12 @@ Det gjør ingenting.	Never mind (it doesn't do anything).
 Never mind (it doesn't do anything).	Det gjør ingenting.
 seinere/senere	säänere<br>later
 later	seinere/senere<br>säänere
-det bord	the table
-the table	det bord
-en bord	a table
-a table	en bord
+det bord/bordet	the table
+the table	det bord/bordet
 stolen	the chair
 the chair	stolen
-kilometer	chilometer<br>kilometer
-kilometer	kilometer<br>chilometer
+en kilometer	chilometer<br>a kilometer
+a kilometer	en kilometer<br>chilometer
 God tur!	Gu tür<br>Have a nice trip!
 Have a nice trip!	God tur!<br>Gu tür
 Hvor mye har du?	wor müe har dü?<br>How much do you have?
@@ -228,8 +226,8 @@ ja	ja (short a)<br>yes
 yes	ja<br>ja (short a)
 Jeg studerer på NTNU.	I'm studying at NTNU.
 I'm studying at NTNU.	Jeg studerer på NTNU.
-norsklærer	norwegian (language) teacher
-norwegian (language) teacher	norsklærer
+en norsklærer	norwegian (language) teacher
+norwegian (language) teacher	en norsklærer
 Østerrike	österigge<br>Austria
 Austria	Østerrike<br>österigge
 Sveiz	swaiz<br>Switzerland
