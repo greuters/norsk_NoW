@@ -1,0 +1,12 @@
+en far	father<br>faren, to fedre, alle fedrene
+father	en far<br>faren, to fedre, alle fedrene
+ei mor	a mother<br>mora, mødre, mødrene
+a mother	ei mor<br>mora, mødre, mødrene
+en bror	a brother<br>broren, brødre, brødrene
+a brother	en bror<br>broren, brødre, brødrene
+ei søster	a sister<br>søst(e)ra, søstre, søstrene<br>better don't put e in søstra
+a sister	ei søster<br>søst(e)ra, søstre, søstrene<br>better don't put e in søstra
+ei tante	an aunt<br>tanta, tanter, tantene
+an aunt	ei tante<br>tanta, tanter, tantene
+en onkel	unggel<br>an oncle<br>onkelen, onkler, onklene
+an oncle	en onkel<br>unggel<br>onkelen, onkler, onklene

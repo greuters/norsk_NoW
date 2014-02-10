@@ -39,14 +39,14 @@ Det er inne.	It's inside (static, in, inside)
 It's inside (static, in, inside)	Det er inne.
 ut	out (movement)
 out (movement)	ut
-opp	up (static)
-up (static)	opp
+opp	up (dynamic)
+up (dynamic)	opp
 oppe	up (static)
 up (static)	oppe
 uppe	up (dynamic)
 up (dynamic)	uppe
-nned	dow (dynamic)
-dow (dynamic)	nned
+ned	down (dynamic)
+down (dynamic)	ned
 nede	down (static)
 down (static)	nede
 hjem	home(wards), (dynamic)
@@ -55,3 +55,7 @@ hjemme	at home (static)
 at home (static)	hjemme
 ute	out (dynamic)
 out (dynamic)	ute
+et barn	a child<br>barnet, to barn, alle barna
+a child	et barn<br>barnet, to barn, alle barna
+et kjøkken	chjöcken<br>a kitchen<br>kjøkkenet, kjøkken, kjøkkenene
+a kitchen	et kjøkken<br>chjöcken<br>kjøkkenet, kjøkken, kjøkkenene
