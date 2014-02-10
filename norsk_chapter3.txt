@@ -1,0 +1,57 @@
+hankjønn	masculine
+masculine	hankjønn
+hunkjønn	feminine
+feminine	hunkjønn
+intetkjønn	neutral
+neutral	intetkjønn
+flertall	plural
+plural	flertall
+hvorfor	why (wherefore)
+why (wherefore)	hvorfor
+alder	age
+age	alder
+svar	answer
+answer	svar
+korrekt	correct
+correct	korrekt
+dato	date
+date	dato
+syttende mai (17.05.)	söttene mai<br>national day (seventeenth of mai)
+national day (seventeenth of mai)	syttende mai (17.05.)<br>söttene mai
+tjuesjuende au	chüschüende äü<br>27. 08.
+27. 08.	tjuesjuende au<br>chüschüende äü
+ved siden av	beside (at the side of)
+å ligger	to lie
+to lie	å ligger
+høy	tall, high
+tall, high	høy
+å ligge	to lie / to stand, lie<br>ligger, lå, har ligget
+to lie / to stand, lie	å ligge<br>ligger, lå, har ligget
+fæle	ugly, awful
+ugly, awful	fæle
+å sette	to set
+to set	å sette
+Jeg tenker deg.	I'm thinking of you/I think about you.
+I'm thinking of you/I think about you.	Jeg tenker deg.
+inn	in, inside, into, movement (herein)
+in, inside, into, movement (herein)	inn
+Det er inne.	It's inside (static, in, inside)
+It's inside (static, in, inside)	Det er inne.
+ut	out (movement)
+out (movement)	ut
+opp	up (static)
+up (static)	opp
+oppe	up (static)
+up (static)	oppe
+uppe	up (dynamic)
+up (dynamic)	uppe
+nned	dow (dynamic)
+dow (dynamic)	nned
+nede	down (static)
+down (static)	nede
+hjem	home(wards), (dynamic)
+home(wards), (dynamic)	hjem
+hjemme	at home (static)
+at home (static)	hjemme
+ute	out (dynamic)
+out (dynamic)	ute

@@ -1,0 +1,28 @@
+første	(the) first
+(the) first	første
+andre	second
+second	andre
+tredje	third
+third	tredje
+fjerde	fjäre<br>fourth
+fourth	fjerde<br>fjäre
+femte	fifth
+fifth	femte
+sjette	schette<br>seventh
+seventh	sjette<br>schette
+sjuende	schüende<br>seventh
+seventh	sjuende<br>schüende
+åttende	eighth
+eighth	åttende
+niende	ninth
+ninth	niende
+tiende	tenth
+tenth	tiende
+ellevte	eleventh
+eleventh	ellevte
+tolvte	toolte<br>twelvth
+twelvth	tolvte<br>toolte
+...de<br>trettede<br>fjortende<br>tjuende	thirteen and following..<br>thirteenth<br>fourteenth<br>twentieth
+thirteen and following..<br>thirteenth<br>fourteenth<br>twentieth	...de<br>trettede<br>fjortende<br>tjuende
+trettiende	thirtieth
+thirtieth	trettiende

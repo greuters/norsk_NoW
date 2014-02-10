@@ -1,0 +1,15 @@
+<ai>	ai<br><ai>
+<ai>	<ai><br>ai
+øy	öi<br>øy
+øy	øy<br>öi
+oy	soya, oy<br>oy
+oy	oy<br>soya, oy
+sau	säu<br>sheep
+sheep	sau<br>säu
+ai	ai
+ai	ai
+Jeg skjønner/forstår.	I understand.
+I understand.	Jeg skjønner/forstår.
+et kjøkken	chjöcken<br>a kitchen
+a kitchen	et kjøkken<br>chjöcken
+beside (at the side of)	ved siden av

@@ -330,8 +330,6 @@ a help	en hjelp
 to help	å hjelpe<br>yelpe<br>hjelper, hjalp, har hjulpet
 høyre	right
 right	høyre
-inn	in, inside, into
-in, inside, into	inn
 en kafé	a café
 a café	en kafé
 en kaffe	short e<br>a coffee
@@ -356,8 +354,6 @@ kvart	quarter
 quarter	kvart
 å lande	to land<br>lander, landet, har landet
 to land	å lande<br>lander, landet, har landet
-å ligge	to stand, lie<br>ligger, lå, har ligget
-to stand, lie	å ligge<br>ligger, lå, har ligget
 en mandag	a monday
 a monday	en mandag
 mye	much, a lot, plenty
@@ -444,3 +440,7 @@ a moment	et øyeblikk
 eight	åtte
 gul	yellow
 yellow	gul
+å ligge	to lie / to stand, lie<br>ligger, lå, har ligget
+to lie / to stand, lie	å ligge<br>ligger, lå, har ligget
+inn	in, inside, into, movement (herein)
+in, inside, into, movement (herein)	inn
