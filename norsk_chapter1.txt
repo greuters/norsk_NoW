@@ -42,8 +42,6 @@ en ung(dom)	a young(ster)
 a young(ster)	en ung(dom)
 en pose	a bag
 a bag	en pose
-en stol	a chair
-a chair	en stol
 ei avis	a newspaper
 a newspaper	ei avis
 ei norsk krone	a norwegian crown
@@ -58,8 +56,6 @@ et eple	an apple
 an apple	et eple
 et problem	a problem
 a problem	et problem
-et bord	e bur<br>a table
-a table	et bord<br>e bur
 en kvittering	a receipt
 a receipt	en kvittering
 Hvenn?	wenn<br>Who?
@@ -238,8 +234,8 @@ Mexico	Mexico
 Mexico	Mexico
 Polen	vekt på e<br>Poland
 Poland	Polen<br>vekt på e
-Va hetter du?	What's your name?
-What's your name?	Va hetter du?
+Hva heter du?	What's your name?
+What's your name?	Hva heter du?
 Tyskland	tüsklan<br>Germany
 Germany	Tyskland<br>tüsklan
 Vien	Vienna
@@ -280,8 +276,8 @@ men	men<br>but
 but	men<br>men
 gift	yift<br>married
 married	gift<br>yift
-å vare	to be
-to be	å vare
+å være	to be
+to be	å være
 nå	now
 now	nå
 fint	fine
@@ -294,8 +290,8 @@ Hva gjør du i Trondheim?	va yör dü i tronnheim?<br>What are you doing in Tron
 What are you doing in Trondheim?	Hva gjør du i Trondheim?<br>va yör dü i tronnheim?
 Spørsmal?	spöschmol<br>Question(s)?
 Question(s)?	Spørsmal?<br>spöschmol
-ogsa	osso<br>also
-also	ogsa<br>osso
+også	osso<br>also
+also	også<br>osso
 Jeg forstå litt norsk, men snakker ikke.	I understand a bit of norwegian, but don't speak any.
 I understand a bit of norwegian, but don't speak any.	Jeg forstå litt norsk, men snakker ikke.
 en antropologi	an anthropology
@@ -394,8 +390,8 @@ ei jente	a girl<br>jenta, jenter, jentene
 a girl	ei jente<br>jenta, jenter, jentene
 å jobbe	oa yobbe<br>to work<br>jobber, jobbet, har jobbet
 to work	å jobbe<br>oa yobbe<br>jobber, jobbet, har jobbet
-kanskje	perhaps, maybe
-perhaps, maybe	kanskje
+kanskje	kansche<br>perhaps, maybe
+perhaps, maybe	kanskje<br>kansche
 et kart	a map<br>kartet, kart, kartene
 a map	et kart<br>kartet, kart, kartene
 en kilometer	en chylometer<br>a kilometer<br>kilometeren, kilometer, kilometerne
@@ -500,3 +496,7 @@ a number	et nummer<br>nummer
 to see	å se<br>oa se<br>ser, så, har sett
 å spørre	oa spörre<br>to ask<br>spør, spurte, har spurt
 to ask	å spørre<br>oa spörre<br>spør, spurte, har spurt
+et bord	e bur<br>a table
+a table	et bord<br>e bur
+en stol	a chair
+a chair	en stol

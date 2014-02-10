@@ -12,8 +12,8 @@ midnatt	midnight
 midnight	midnatt
 fem på halv åtte	19.25
 19.25	fem på halv åtte
-kvar på sju (om morgenen)	06.45
-06.45	kvar på sju (om morgenen)
+kvart på sju (om morgenen)	kwart po schü (om moan)<br>06.45
+06.45	kvart på sju (om morgenen)<br>kwart po schü (om moan)
 ti på halv to	13.20
 13.20	ti på halv to
 ti over elleve (om formiddagen)	11.10

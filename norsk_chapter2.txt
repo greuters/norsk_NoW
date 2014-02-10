@@ -222,8 +222,6 @@ Jeg har ei brun veske.	I have a brown ¿bag?.
 I have a brown ¿bag?.	Jeg har ei brun veske.
 Jeg har to gule bord.	I have two yellow tables.
 I have two yellow tables.	Jeg har to gule bord.
-gul	yellow
-yellow	gul
 Stolen er brun.	The chair is brown.
 The chair is brown.	Stolen er brun.
 Bordet er brunt.	The table is brown.
@@ -444,3 +442,5 @@ et øyeblikk	a moment
 a moment	et øyeblikk
 åtte	eight
 eight	åtte
+gul	yellow
+yellow	gul

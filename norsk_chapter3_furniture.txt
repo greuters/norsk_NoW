@@ -1,0 +1,20 @@
+ei seng	a bed
+a bed	ei seng
+et bord	e bur<br>a table
+a table	et bord<br>e bur
+en stol	a chair
+a chair	en stol
+et skap	a closet/cupboard
+a closet/cupboard	et skap
+et skrivebord	a desk
+a desk	et skrivebord
+et vindu	a window
+a window	et vindu
+ei dør	a door
+a door	ei dør
+en vask	a sink
+a sink	en vask
+et badekar	a bath tub
+a bath tub	et badekar
+en dusj	a shower
+a shower	en dusj
