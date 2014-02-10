@@ -28,8 +28,6 @@ Ha det!	ha de<br>bye, bye
 bye, bye	Ha det!<br>ha de
 Vi ses!	wi ses<br>See you!<br>
 See you!<br>	Vi ses!<br>wi ses
-å se	oa se<br>to see
-to see	å se<br>oa se
 Vi snakkes (i morgen)!	We'll talk (again) tomorrow!
 We'll talk (again) tomorrow!	Vi snakkes (i morgen)!
 morna	moana<br>See you (only used in oslo)
@@ -62,8 +60,6 @@ et problem	a problem
 a problem	et problem
 et bord	e bur<br>a table
 a table	et bord<br>e bur
-et nummer	a number
-a number	et nummer
 en kvittering	a receipt
 a receipt	en kvittering
 Hvenn?	wenn<br>Who?
@@ -94,8 +90,6 @@ Lykke til!	Good luck!
 Good luck!	Lykke til!
 Jeg får alltid 1.	jei for allti eän.<br>I'm allways rolling one.
 I'm allways rolling one.	Jeg får alltid 1.<br>jei for allti eän.
-å få	to get, receive
-to get, receive	å få
 fjorten	fjurtn<br>fourteen
 fourteen	fjorten<br>fjurtn
 Hvordan uttaler du "14"?	How do you pronounce "14"?
@@ -114,8 +108,6 @@ to play with (ball, cars, dolls)	å leke med (ball, biler, dokker)<br>without fi
 to play (cards, football)	å spille (kort, fotball)<br>with ruleset
 sentralstasjon	sentralstaschon<br>Central Station
 Central Station	sentralstasjon<br>sentralstaschon
-av	off (the train)
-off (the train)	av
 jeg vil (gjerne) ta	I would like to take<br>å ville is followed by infinitive
 I would like to take	jeg vil (gjerne) ta<br>å ville is followed by infinitive
 hun	she
@@ -128,8 +120,6 @@ henne	her
 her	henne
 meg	mei<br>me
 me	meg<br>mei
-å hjelpe	to help
-to help	å hjelpe
 Kan du hjelpe meg?	kan dü jelpe mai?<br>Can you help me?
 Can you help me?	Kan du hjelpe meg?<br>kan dü jelpe mai?
 Jeg skal dra..	yei skal dra<br>I'm going to..
@@ -138,8 +128,6 @@ Jeg vil snakke	I'll speak
 I'll speak	Jeg vil snakke
 Jeg må forstå	I must (have to) understand
 I must (have to) understand	Jeg må forstå
-å kjøre	chjöre<br>to drive
-to drive	å kjøre<br>chjöre
 snart	soon
 soon	snart
 veldig godt	velde got<br>very good/well
@@ -306,12 +294,8 @@ Hva gjør du i Trondheim?	va yör dü i tronnheim?<br>What are you doing in Tron
 What are you doing in Trondheim?	Hva gjør du i Trondheim?<br>va yör dü i tronnheim?
 Spørsmal?	spöschmol<br>Question(s)?
 Question(s)?	Spørsmal?<br>spöschmol
-å spørre	oa spörre<br>to ask
-to ask	å spørre<br>oa spörre
 ogsa	osso<br>also
 also	ogsa<br>osso
-å dra	to go (travel, move)
-to go (travel, move)	å dra
 Jeg forstå litt norsk, men snakker ikke.	I understand a bit of norwegian, but don't speak any.
 I understand a bit of norwegian, but don't speak any.	Jeg forstå litt norsk, men snakker ikke.
 en antropologi	an anthropology
@@ -500,3 +484,19 @@ en bensinstasjon	a petrol station
 a petrol station	en bensinstasjon
 et år	a year
 a year	et år
+av	off (the train), of, by, from
+off (the train), of, by, from	av
+å dra	to leave, to go (travel, move)<br>drar, dro, har dratt
+to leave, to go (travel, move)	å dra<br>drar, dro, har dratt
+å få	to get, receive<br>får, fikk, har fått
+to get, receive	å få<br>får, fikk, har fått
+å hjelpe	yelpe<br>to help<br>hjelper, hjalp, har hjulpet
+to help	å hjelpe<br>yelpe<br>hjelper, hjalp, har hjulpet
+å kjøre	chjöre<br>to drive
+to drive	å kjøre<br>chjöre
+et nummer	nummer<br>a number
+a number	et nummer<br>nummer
+å se	oa se<br>to see<br>ser, så, har sett
+to see	å se<br>oa se<br>ser, så, har sett
+å spørre	oa spörre<br>to ask<br>spør, spurte, har spurt
+to ask	å spørre<br>oa spörre<br>spør, spurte, har spurt

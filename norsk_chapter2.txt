@@ -148,8 +148,6 @@ en formiddag	a morning (9-12), vormittag
 a morning (9-12), vormittag	en formiddag
 midt på dagen	noon/mid-day
 noon/mid-day	midt på dagen
-en ettermiddag	an afternoon
-an afternoon	en ettermiddag
 ei natt	ai nat<br>a night
 a night	ei natt<br>ai nat
 et døgn	et deyn<br>24 hours
@@ -170,8 +168,6 @@ Jeg har en time (på lege).	I have an appointment (with the doctor).
 I have an appointment (with the doctor).	Jeg har en time (på lege).
 Jeg har en time nå.	I have a class now.
 I have a class now.	Jeg har en time nå.
-ett	one o'clock
-one o'clock	ett
 kvart over ett	a quarter past one
 a quarter past one	kvart over ett
 halv to	hal tu<br>half past one
@@ -188,8 +184,8 @@ Når kommer Peter?	When does Peter come?
 When does Peter come?	Når kommer Peter?
 Når?	When?
 When?	Når?
-Hun kommer klokka halv ni.	He's coming at 8.30.
-He's coming at 8.30.	Hun kommer klokka halv ni.
+Hun kommer klokka halv ni.	She's coming at 8.30.
+She's coming at 8.30.	Hun kommer klokka halv ni.
 Bussen kommer (klokka) halv ni.	The bus is coming half past eight.<br>klokka is optional
 The bus is coming half past eight.	Bussen kommer (klokka) halv ni.<br>klokka is optional
 Bussen går.	The bus leaves.
@@ -214,8 +210,6 @@ Først skal jeg lage mat. Så skal jeg trene i kveld.	First I'll cook, then I'm 
 First I'll cook, then I'm going to workout in the evening.	Først skal jeg lage mat. Så skal jeg trene i kveld.
 så	so, then
 so, then	så
-etterpå	afterwards
-afterwards	etterpå
 en film	a movie
 a movie	en film
 en brun stol	a brown chair
@@ -244,11 +238,209 @@ mange netter	some nights
 some nights	mange netter
 alle nettene	all nights
 all nights	alle nettene
-en time	an hour, appointment, lesson, class, session, one hour
-an hour, appointment, lesson, class, session, one hour	en time
 timen	the hour
 the hour	timen
 tre timer	three hours
 three hours	tre timer
 alle timene	all hours
 all hours	alle timene
+en buss	a bus
+a bus	en buss
+en bussjåfør	a busdriver
+a busdriver	en bussjåfør
+en studentby	a student village
+a student village	en studentby
+en koffert	a suitcase
+a suitcase	en koffert
+et kort	a card (e.g. credit card)
+a card (e.g. credit card)	et kort
+to kort	two cards
+two cards	to kort
+en adresse	an address
+an address	en adresse
+adressa	the address
+the address	adressa
+to adresser	two addresses
+two addresses	to adresser
+alle adressene	all addresses
+all addresses	alle adressene
+at	that
+that	at
+bagasje	luggage<br>uncountable noun
+luggage	bagasje<br>uncountable noun
+å betale	to pay<br>betaler, betalte, har betalt
+to pay	å betale<br>betaler, betalte, har betalt
+å bety	to mean<br>betyr, betydde, har betydd
+to mean	å bety<br>betyr, betydde, har betydd
+en billett	a ticket
+a ticket	en billett
+billetten	the ticket
+the ticket	billetten
+mange billetter	some tickets
+some tickets	mange billetter
+alle billettene	all tickets
+all tickets	alle billettene
+å bruke	to use<br>bruker, brukte, har brukt
+to use	å bruke<br>bruker, brukte, har brukt
+ei bussrute	ai büssrüte<br>a bus route
+a bus route	ei bussrute<br>ai büssrüte
+en busstur	a bus trip
+a bus trip	en busstur
+å bytte	to change, exchange
+to change, exchange	å bytte
+dem	them
+them	dem
+å dra	to leave, to go (travel, move)<br>drar, dro, har dratt
+to leave, to go (travel, move)	å dra<br>drar, dro, har dratt
+å drikke	to drink<br>drikker, drakk, har drukket
+to drink	å drikke<br>drikker, drakk, har drukket
+endelig	finally
+finally	endelig
+ett	one
+one	ett
+en ettermiddag	an afternoon
+an afternoon	en ettermiddag
+etterpå	afterwards
+afterwards	etterpå
+å finne	to find<br>finner, fant, har funnet
+to find	å finne<br>finner, fant, har funnet
+flott	great, good
+great, good	flott
+en flybuss	an airport express coach
+an airport express coach	en flybuss
+for	for<br>for, because
+for, because	for<br>for
+forbi	forbi<br>past, by
+past, by	forbi<br>forbi
+fram	forth, forward, on
+forth, forward, on	fram
+først	first
+first	først
+å få	to get, receive<br>får, fikk, har fått
+to get, receive	å få<br>får, fikk, har fått
+gjerne	would like
+would like	gjerne
+å gå	to go<br>går, gikk, har gått
+to go	å gå<br>går, gikk, har gått
+halv	hal<br>half
+half	halv<br>hal
+hei	hi
+hi	hei
+en hjelp	a help
+a help	en hjelp
+å hjelpe	yelpe<br>to help<br>hjelper, hjalp, har hjulpet
+to help	å hjelpe<br>yelpe<br>hjelper, hjalp, har hjulpet
+høyre	right
+right	høyre
+inn	in, inside, into
+in, inside, into	inn
+en kafé	a café
+a café	en kafé
+en kaffe	short e<br>a coffee
+a coffee	en kaffe<br>short e
+kan (å kunne)	can, be able to
+can, be able to	kan (å kunne)
+å kjøpe	to buy
+to buy	å kjøpe
+et kjøpesenter	a shopping mall
+a shopping mall	et kjøpesenter
+å kjøre	chjöre<br>to drive
+to drive	å kjøre<br>chjöre
+klokka er	the time is
+the time is	klokka er
+ei klokke	a clock/watch
+a clock/watch	ei klokke
+en kopp	a cup
+a cup	en kopp
+å kunne	(the infinitive of) can, to be able to
+(the infinitive of) can, to be able to	å kunne
+kvart	quarter
+quarter	kvart
+å lande	to land<br>lander, landet, har landet
+to land	å lande<br>lander, landet, har landet
+å ligge	to stand, lie<br>ligger, lå, har ligget
+to stand, lie	å ligge<br>ligger, lå, har ligget
+en mandag	a monday
+a monday	en mandag
+mye	much, a lot, plenty
+much, a lot, plenty	mye
+å måtte	to have to, must<br>må, måtte, har måttet
+to have to, must	å måtte<br>må, måtte, har måttet
+ni	nine
+nine	ni
+noen	nuuen<br>some, somebody, any, anybody
+some, somebody, any, anybody	noen<br>nuuen
+et nummer	nummer<br>a number
+a number	et nummer<br>nummer
+når	when
+when	når
+oss	us
+us	oss
+en overgang	a transition
+a transition	en overgang
+å parkere	to park<br>parkerer, parkerte, har parkert
+to park	å parkere<br>parkerer, parkerte, har parkert
+en parkeringsplass	a parking lot
+a parking lot	en parkeringsplass
+en resepsjon	resepschun<br>a reception
+a reception	en resepsjon<br>resepschun
+rett	straight, directly
+straight, directly	rett
+å rope	ruupe<br>to call, cry, shout
+to call, cry, shout	å rope<br>ruupe
+et rundstykke	a roll (some sweet)
+a roll (some sweet)	et rundstykke
+å se	oa se<br>to see<br>ser, så, har sett
+to see	å se<br>oa se<br>ser, så, har sett
+selvfølgelig	of course
+of course	selvfølgelig
+en sentralstasjon	a central station
+a central station	en sentralstasjon
+et sentrum	a centre
+a centre	et sentrum
+å sjekke	to check<br>sjekker, sjekket, har sjekket
+to check	å sjekke<br>sjekker, sjekket, har sjekket
+skal (å skulle)	will, shall
+will, shall	skal (å skulle)
+et skilt	schilt<br>a sign, signpost
+a sign, signpost	et skilt<br>schilt
+å skulle	will, shall (infinitive)<br>skal, skulle, har skullet
+will, shall (infinitive)	å skulle<br>skal, skulle, har skullet
+å spise	to eat<br>spiser, spiste, har spist
+to eat	å spise<br>spiser, spiste, har spist
+å spørre	oa spörre<br>to ask<br>spør, spurte, har spurt
+to ask	å spørre<br>oa spörre<br>spør, spurte, har spurt
+å stenge	to close<br>stenger, stengte, har stengt
+to close	å stenge<br>stenger, stengte, har stengt
+å sta	to stand<br>står, sto, har stått
+to stand	å sta<br>står, sto, har stått
+sulten	hungry<br>sultent, sultne
+hungry	sulten<br>sultent, sultne
+å takke	to thank<br>takker, takket, har takket
+to thank	å takke<br>takker, takket, har takket
+en taxi	a taxi
+a taxi	en taxi
+en taxisjåfør	a taxi driver
+a taxi driver	en taxisjåfør
+ti	ten
+ten	ti
+en time	an hour, appointment, lesson, class, session, one hour
+an hour, appointment, lesson, class, session, one hour	en time
+utenfor	üütenfor<br>outside
+outside	utenfor<br>üütenfor
+en vei	a road<br>veien, veier, veiene
+a road	en vei<br>veien, veier, veiene
+venstre	left
+left	venstre
+å vente	to wait<br>venter, ventet, har ventet
+to wait	å vente<br>venter, ventet, har ventet
+ei veske	a handbag<br>veska, vesker, veskene
+a handbag	ei veske<br>veska, vesker, veskene
+vil (å ville)	wants to, will
+wants to, will	vil (å ville)
+øst	east
+east	øst
+et øyeblikk	a moment
+a moment	et øyeblikk
+åtte	eight
+eight	åtte
