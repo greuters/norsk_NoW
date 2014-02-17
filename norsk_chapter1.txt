@@ -14,8 +14,8 @@ sein/sen	sen<br>late
 late	sein/sen<br>sen
 hvordan går det?	wodan gor de?<br>How's it going?
 How's it going?	hvordan går det?<br>wodan gor de?
-å går	oa goar<br>to go/walk
-to go/walk	å går<br>oa goar
+å gå	oa goa<br>to go/walk
+to go/walk	å gå<br>oa goa
 bare fint	just fine
 just fine	bare fint
 ikke så verst	igge so wäst<br>not bad
@@ -64,8 +64,8 @@ toget	the train
 the train	toget
 unnskyld	ünschüll<br>excuse me; i'm sorry for
 excuse me; i'm sorry for	unnskyld<br>ünschüll
-Det er ok/greit.	de är okaa/grait.<br>It's ok.
-It's ok.	Det er ok/greit.<br>de är okaa/grait.
+Det er ok/greit.	de är uukaa/grait.<br>It's ok.
+It's ok.	Det er ok/greit.<br>de är uukaa/grait.
 Ikke noe problem.	igge nooä prubleäm<br>No problem.
 No problem.	Ikke noe problem.<br>igge nooä prubleäm
 Det gjør ingenting.	Never mind (it doesn't do anything).
@@ -102,8 +102,8 @@ Could you repeat?	Kan du gjenta?<br>kan dü jenta?
 to play with (ball, cars, dolls)	å leke med (ball, biler, dokker)<br>without fixed/given rules
 å spille (kort, fotball)	to play (cards, football)<br>with ruleset
 to play (cards, football)	å spille (kort, fotball)<br>with ruleset
-sentralstasjon	sentralstaschon<br>Central Station
-Central Station	sentralstasjon<br>sentralstaschon
+en sentralstasjon	sentralstaschon<br>Central Station
+Central Station	en sentralstasjon<br>sentralstaschon
 jeg vil (gjerne) ta	I would like to take<br>å ville is followed by infinitive
 I would like to take	jeg vil (gjerne) ta<br>å ville is followed by infinitive
 hun	she
@@ -416,8 +416,8 @@ a morning	en morgen<br>en moan<br>morgen, morgener, morgenene
 to meet	å møte<br>møter, møtte, har møtt
 neste	next
 next	neste
-OK	okaa<br>OK, allright
-OK, allright	OK<br>okaa
+OK	uukaa<br>OK, allright
+OK, allright	OK<br>uukaa
 over	of, over
 of, over	over
 en professor	a professor<br>professoren, professorer, professorene

@@ -59,3 +59,9 @@ et barn	a child<br>barnet, to barn, alle barna
 a child	et barn<br>barnet, to barn, alle barna
 et kjøkken	chjöcken<br>a kitchen<br>kjøkkenet, kjøkken, kjøkkenene
 a kitchen	et kjøkken<br>chjöcken<br>kjøkkenet, kjøkken, kjøkkenene
+høyre	right (side)
+right (side)	høyre
+venstre	left (side)
+left (side)	venstre
+m.e.h	a.s.l (above sea level)
+a.s.l (above sea level)	m.e.h

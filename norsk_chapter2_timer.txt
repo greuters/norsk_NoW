@@ -26,5 +26,5 @@ Vi drar klokka fire => Klokka fire drar vi	We'll leave at four o'clock<br>use in
 We'll leave at four o'clock	Vi drar klokka fire => Klokka fire drar vi<br>use inversion
 Klokka fem på tre drar hun til Moholt.	She's going to Moholt at five to three.
 She's going to Moholt at five to three.	Klokka fem på tre drar hun til Moholt.
-Halv åtte kal vi dra til sentralstasjonen.	We'll go to central station half past seven.
-We'll go to central station half past seven.	Halv åtte kal vi dra til sentralstasjonen.
+Halv åtte skal vi dra til sentralstasjonen.	We'll go to central station half past seven.
+We'll go to central station half past seven.	Halv åtte skal vi dra til sentralstasjonen.

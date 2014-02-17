@@ -16,8 +16,8 @@ en spanjol	en spanjul<br>a Spanish
 a Spanish	en spanjol<br>en spanjul
 en nøkkel	a key<br>nøkkelen, mange nøkler, alle nøklene
 a key	en nøkkel<br>nøkkelen, mange nøkler, alle nøklene
-en sykkel	a bike<br>sykelen, tre sykler, alle syklene
-a bike	en sykkel<br>sykelen, tre sykler, alle syklene
+en sykkel	a bike<br>sykkelen, tre sykler, alle syklene
+a bike	en sykkel<br>sykkelen, tre sykler, alle syklene
 en mann	a man<br>mannen, mange menn, alle mennene
 a man	en mann<br>mannen, mange menn, alle mennene
 en nordmann	a Norwegian<br>nordmannen, mange nordmenn, alle nordmennene
@@ -198,8 +198,8 @@ Hun må (går) hjem.	She must go home.<br>går is optional, verb of movement
 She must go home.	Hun må (går) hjem.<br>går is optional, verb of movement
 en venn	a friend
 a friend	en venn
-Jeg skal snakke med venner.	I'm going to speak with a friend.
-I'm going to speak with a friend.	Jeg skal snakke med venner.
+Jeg skal snakke med venner.	I'm going to speak with some friends.
+I'm going to speak with some friends.	Jeg skal snakke med venner.
 å lage mat	to cook
 to cook	å lage mat
 å gå på tur	to go hiking
@@ -218,16 +218,16 @@ et brunt bord	a brown table
 a brown table	et brunt bord
 to brune stoler	two brown chairs
 two brown chairs	to brune stoler
-Jeg har ei brun veske.	I have a brown ¿bag?.
-I have a brown ¿bag?.	Jeg har ei brun veske.
+Jeg har ei brun veske.	I have a brown handbag.
+I have a brown handbag.	Jeg har ei brun veske.
 Jeg har to gule bord.	I have two yellow tables.
 I have two yellow tables.	Jeg har to gule bord.
 Stolen er brun.	The chair is brown.
 The chair is brown.	Stolen er brun.
 Bordet er brunt.	The table is brown.
 The table is brown.	Bordet er brunt.
-Bordene/Stolener er gule	The tables/chairs are yellow.
-The tables/chairs are yellow.	Bordene/Stolener er gule
+Bordene/Stolene er gule	The tables/chairs are yellow.
+The tables/chairs are yellow.	Bordene/Stolene er gule
 jeg blir	I'll be
 I'll be	jeg blir
 natta	the night
@@ -254,8 +254,8 @@ et kort	a card (e.g. credit card)
 a card (e.g. credit card)	et kort
 to kort	two cards
 two cards	to kort
-en adresse	an address
-an address	en adresse
+ei adresse	an address
+an address	ei adresse
 adressa	the address
 the address	adressa
 to adresser	two addresses
@@ -328,8 +328,6 @@ en hjelp	a help
 a help	en hjelp
 å hjelpe	yelpe<br>to help<br>hjelper, hjalp, har hjulpet
 to help	å hjelpe<br>yelpe<br>hjelper, hjalp, har hjulpet
-høyre	right
-right	høyre
 en kafé	a café
 a café	en kafé
 en kaffe	short e<br>a coffee
@@ -424,8 +422,6 @@ utenfor	üütenfor<br>outside
 outside	utenfor<br>üütenfor
 en vei	a road<br>veien, veier, veiene
 a road	en vei<br>veien, veier, veiene
-venstre	left
-left	venstre
 å vente	to wait<br>venter, ventet, har ventet
 to wait	å vente<br>venter, ventet, har ventet
 ei veske	a handbag<br>veska, vesker, veskene
@@ -444,3 +440,7 @@ yellow	gul
 to lie / to stand, lie	å ligge<br>ligger, lå, har ligget
 inn	in, inside, into, movement (herein)
 in, inside, into, movement (herein)	inn
+høyre	right (side)
+right (side)	høyre
+venstre	left (side)
+left (side)	venstre
