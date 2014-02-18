@@ -1,7 +1,3 @@
-første	(the) first
-(the) first	første
-andre	second
-second	andre
 tredje	third
 third	tredje
 fjerde	fjäre<br>fourth
@@ -26,3 +22,7 @@ twelvth	tolvte<br>toolte
 thirteen and following..<br>thirteenth<br>fourteenth<br>twentieth	...de<br>trettede<br>fjortende<br>tjuende
 trettiende	thirtieth
 thirtieth	trettiende
+andre	second, other
+second, other	andre
+første	first
+first	første

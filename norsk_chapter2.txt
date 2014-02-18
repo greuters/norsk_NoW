@@ -10,8 +10,6 @@ en forsker	a researcher<br>forskeren, mange forskere, alle forskerne
 a researcher	en forsker<br>forskeren, mange forskere, alle forskerne
 en tysker	a German<br>tyskeren, to tyskere, alle tyskerne
 a German	en tysker<br>tyskeren, to tyskere, alle tyskerne
-en italiener	an Italian
-an Italian	en italiener
 en spanjol	en spanjul<br>a Spanish
 a Spanish	en spanjol<br>en spanjul
 en nøkkel	a key<br>nøkkelen, mange nøkler, alle nøklene
@@ -444,3 +442,5 @@ høyre	right (side)
 right (side)	høyre
 venstre	left (side)
 left (side)	venstre
+en italiener	an Italian<br>italieneren, italienere, italienerne
+an Italian	en italiener<br>italieneren, italienere, italienerne

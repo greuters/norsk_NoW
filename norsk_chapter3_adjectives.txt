@@ -1,2 +1,2 @@
-stor	big<br>stor, stort, store
-big	stor<br>stor, stort, store
+stor	big<br>stort, store
+big	stor<br>stort, store

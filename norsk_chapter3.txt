@@ -20,25 +20,18 @@ syttende mai (17.05.)	söttene mai<br>national day (seventeenth of mai)
 national day (seventeenth of mai)	syttende mai (17.05.)<br>söttene mai
 tjuesjuende au	chüschüende äü<br>27. 08.
 27. 08.	tjuesjuende au<br>chüschüende äü
-ved siden av	beside (at the side of)
 å ligger	to lie
 to lie	å ligger
-høy	tall, high
-tall, high	høy
 å ligge	to lie / to stand, lie<br>ligger, lå, har ligget
 to lie / to stand, lie	å ligge<br>ligger, lå, har ligget
 fæle	ugly, awful
 ugly, awful	fæle
-å sette	to set
-to set	å sette
 Jeg tenker deg.	I'm thinking of you/I think about you.
 I'm thinking of you/I think about you.	Jeg tenker deg.
 inn	in, inside, into, movement (herein)
 in, inside, into, movement (herein)	inn
 Det er inne.	It's inside (static, in, inside)
 It's inside (static, in, inside)	Det er inne.
-ut	out (movement)
-out (movement)	ut
 opp	up (dynamic)
 up (dynamic)	opp
 oppe	up (static)
@@ -51,17 +44,231 @@ nede	down (static)
 down (static)	nede
 hjem	home(wards), (dynamic)
 home(wards), (dynamic)	hjem
-hjemme	at home (static)
-at home (static)	hjemme
-ute	out (dynamic)
-out (dynamic)	ute
 et barn	a child<br>barnet, to barn, alle barna
 a child	et barn<br>barnet, to barn, alle barna
-et kjøkken	chjöcken<br>a kitchen<br>kjøkkenet, kjøkken, kjøkkenene
-a kitchen	et kjøkken<br>chjöcken<br>kjøkkenet, kjøkken, kjøkkenene
 høyre	right (side)
 right (side)	høyre
 venstre	left (side)
 left (side)	venstre
 m.e.h	a.s.l (above sea level)
 a.s.l (above sea level)	m.e.h
+aldri	never
+never	aldri
+alt (all)	all, everything
+all, everything	alt (all)
+andre	second, other
+second, other	andre
+et bad	a bath<br>badet, bad, badene
+a bath	et bad<br>badet, bad, badene
+å barbere seg	to shave<br>barberer seg, barberte seg, har barbert seg
+to shave	å barbere seg<br>barberer seg, barberte seg, har barbert seg
+ei bokhylle	a book shelf<br>bokhylla, bokhyller, bokhyllene
+a book shelf	ei bokhylle<br>bokhylla, bokhyller, bokhyllene
+en bror	bruur<br>a brother<br>broren, brødre, brødrene
+a brother	en bror<br>bruur<br>broren, brødre, brødrene
+brun	brown<br>brunt, brune
+brown	brun<br>brunt, brune
+et brød	a bread, a loaf of bread<br>brødet, brød, brødene
+a bread, a loaf of bread	et brød<br>brødet, brød, brødene
+ei brødskive	a slice of bread<br>brødskiva, brødskiver, brødskivene
+a slice of bread	ei brødskive<br>brødskiva, brødskiver, brødskivene
+en bygning	a building<br>bygningen, bygninger, bygningene
+a building	en bygning<br>bygningen, bygninger, bygningene
+å bære	to carry<br>bærer, bar, har båret
+to carry	å bære<br>bærer, bar, har båret
+da	then
+then	da
+å dele	to share<br>deler, delte, har delt
+to share	å dele<br>deler, delte, har delt
+dessverre	unfortunately
+unfortunately	dessverre
+en dusj	a shower<br>dusjen, dusjer, dusjene
+a shower	en dusj<br>dusjen, dusjer, dusjene
+ei dør	a door<br>døra, dører, dørene
+a door	ei dør<br>døra, dører, dørene
+ennå	yet, still
+yet, still	ennå
+en etasje	a storey, floor<br>etasjen, etasjer, etasjene
+a storey, floor	en etasje<br>etasjen, etasjer, etasjene
+et etternavn	a surname<br>etternavnet, etternavn, etternavnene
+a surname	et etternavn<br>etternavnet, etternavn, etternavnene
+en far	a father<br>faren, to fedre, alle fedrene
+a father	en far<br>faren, to fedre, alle fedrene
+fin	fine<br>fint, fine
+fine	fin<br>fint, fine
+en frokost	a breakfast<br>frokosten, frokoster, frokostene
+a breakfast	en frokost<br>frokosten, frokoster, frokostene
+å fylle ut	to fill in<br>fyller ut, fylte ut, har fylt ut
+to fill in	å fylle ut<br>fyller ut, fylte ut, har fylt ut
+fæl	awful<br>fælt, fæle
+awful	fæl<br>fælt, fæle
+en fødselsdato	a date of birth<br>fødselsdatoen, fødselsdatoer, fødselsdatoene
+a date of birth	en fødselsdato<br>fødselsdatoen, fødselsdatoer, fødselsdatoene
+første	first
+first	første
+et/en gardin	a curtain<br>gardinet/gardinen, gardiner, gardinene
+a curtain	et/en gardin<br>gardinet/gardinen, gardiner, gardinene
+en gitar	a guitar<br>gitaren, gitarer, gitarene
+a guitar	en gitar<br>gitaren, gitarer, gitarene
+gjennom	through
+through	gjennom
+en gjest	jest<br>a guest<br>gjesten, gjester, gjestene
+a guest	en gjest<br>jest<br>gjesten, gjester, gjestene
+å glede seg	to look forward to<br>gleder seg, gledet seg, har gledet seg
+to look forward to	å glede seg<br>gleder seg, gledet seg, har gledet seg
+greit	all right
+all right	greit
+å ha lyst på	to want<br>har lyst på, hadde lyst på, har hatt lyst på
+to want	å ha lyst på<br>har lyst på, hadde lyst på, har hatt lyst på
+å hente	to pick up<br>henter, hentet, har hentet
+to pick up	å hente<br>henter, hentet, har hentet
+hjemme	at home (static)
+at home (static)	hjemme
+en hybel	a bed-sitter, lodgings<br>hybelen, hybler, hyblene
+a bed-sitter, lodgings	en hybel<br>hybelen, hybler, hyblene
+høy	tall, loud, high<br>høyt, høye
+tall, loud, high	høy<br>høyt, høye
+inne	in, inside
+in, inside	inne
+et instrument	an instrument<br>instrumentet, instrumenter, instrumentene
+an instrument	et instrument<br>instrumentet, instrumenter, instrumentene
+ei inventarliste	a list of furniture, inventory<br>inventarlista, inventarlister, inventarlistene
+a list of furniture, inventory	ei inventarliste<br>inventarlista, inventarlister, inventarlistene
+en jus	a juice<br>jusen, juser, jusene
+a juice	en jus<br>jusen, juser, jusene
+en italiener	an Italian<br>italieneren, italienere, italienerne
+an Italian	en italiener<br>italieneren, italienere, italienerne
+kjempeflink	very good, clever<br>kjempeflinkt, kjempeflinke
+very good, clever	kjempeflink<br>kjempeflinkt, kjempeflinke
+kjempesulten	very hungry<br>kjempesultent, kjempesultne
+very hungry	kjempesulten<br>kjempesultent, kjempesultne
+et kjøkken	chjöcken<br>a kitchen<br>kjøkkenet, kjøkken/-er, kjøkkenene
+a kitchen	et kjøkken<br>chjöcken<br>kjøkkenet, kjøkken/-er, kjøkkenene
+en kjøkkenbenk	a workbench<br>kjøkkenbenken, kjøkkenbenker, kjøkkenbenkene
+a workbench	en kjøkkenbenk<br>kjøkkenbenken, kjøkkenbenker, kjøkkenbenkene
+et kjøleskap	a refrigerator<br>kjøleskapet, kjøleskap, kjøleskapene
+a refrigerator	et kjøleskap<br>kjøleskapet, kjøleskap, kjøleskapene
+å kle seg	to dress<br>kler seg, kledde seg, har kledd seg
+to dress	å kle seg<br>kler seg, kledde seg, har kledd seg
+å koke	to boil<br>koker, kokte, har kokt
+to boil	å koke<br>koker, kokte, har kokt
+en kontrakt	a contract<br>kontrakten, kontrakter, kontraktene
+a contract	en kontrakt<br>kontrakten, kontrakter, kontraktene
+å lage	to make<br>lager, lagde, har lagd
+to make	å lage<br>lager, lagde, har lagd
+å legge	to lay, put<br>legger, la, har lagt
+to lay, put	å legge<br>legger, la, har lagt
+ei liste	a list<br>lista, lister, listene
+a list	ei liste<br>lista, lister, listene
+en lyst	a wish, desire, inclination<br>lysten, lyster, lystene
+a wish, desire, inclination	en lyst<br>lysten, lyster, lystene
+lyst på (å ha lyst på noe)	wanting something
+wanting something	lyst på (å ha lyst på noe)
+mat	food<br>maten (uncountable)
+food	mat<br>maten (uncountable)
+melk	milk<br>melken (uncountable)
+milk	melk<br>melken (uncountable)
+et mobilnummer	a cell phone number<br>mobilnummeret, mobilnummer/mobilnumre, mobilnumbrene
+a cell phone number	et mobilnummer<br>mobilnummeret, mobilnummer/mobilnumre, mobilnumbrene
+en mobiltelefon	a mobile phone<br>mobiltelefonen, mobiltelefoner, mobiltelefonene
+a mobile phone	en mobiltelefon<br>mobiltelefonen, mobiltelefoner, mobiltelefonene
+moderne	modern<br>moderne, moderne
+modern	moderne<br>moderne, moderne
+ei mor	a mother<br>mora, mødre, mødrene
+a mother	ei mor<br>mora, mødre, mødrene
+musikk	music<br>musikken (uncountable)
+music	musikk<br>musikken (uncountable)
+et møbel	a piece of furniture<br>møbelet, møbler, møblene
+a piece of furniture	et møbel<br>møbelet, møbler, møblene
+nr	no.
+no.	nr
+en ost	a cheese<br>osten, oster, ostene
+a cheese	en ost<br>osten, oster, ostene
+et pass	a passport<br>passet, pass, passene
+a passport	et pass<br>passet, pass, passene
+et piano	a piano<br>pianoet, pianoer, pianoene
+a piano	et piano<br>pianoet, pianoer, pianoene
+å pusse	to brush<br>pusser, pusset, har pusset
+to brush	å pusse<br>pusser, pusset, har pusset
+en resepsjonist	a receptionist<br>resepsjonisten, resepsjonister, resepsjonistene
+a receptionist	en resepsjonist<br>resepsjonisten, resepsjonister, resepsjonistene
+et rom	rum<br>a room<br>rommet, rom, rommene
+a room	et rom<br>rum<br>rommet, rom, rommene
+salami	salami<br>salamien (uncountable)
+salami	salami<br>salamien (uncountable)
+seg	sai<br>himself, herself, itself, oneself, themselves
+himself, herself, itself, oneself, themselves	seg<br>sai
+å sette	to put, place, set<br>setter, satte, har satt
+to put, place, set	å sette<br>setter, satte, har satt
+å sette seg	to sit down<br>setter seg, satte seg, har satt seg
+to sit down	å sette seg<br>setter seg, satte seg, har satt seg
+å si	to say<br>sier, sa, har sagt
+to say	å si<br>sier, sa, har sagt
+en sjokolade	a chocolate<br>sjokoladen, sjokolader, sjokoladene
+a chocolate	en sjokolade<br>sjokoladen, sjokolader, sjokoladene
+ei skinke	a ham<br>skinka, skinker, skinkene
+a ham	ei skinke<br>skinka, skinker, skinkene
+ei skive	a slice<br>skiva, skiver, skivene
+a slice	ei skive<br>skiva, skiver, skivene
+et skjema	a form<br>skjemaet, skjema, skjemaene
+a form	et skjema<br>skjemaet, skjema, skjemaene
+å skrive	to write<br>skriver, skrev skrevet
+to write	å skrive<br>skriver, skrev skrevet
+å skrive under	to sign<br>skriver under, skrev under, har skrevet under
+to sign	å skrive under<br>skriver under, skrev under, har skrevet under
+spennende	exciting<br>spennende, spennende
+exciting	spennende<br>spennende, spennende
+å spille	to play (specific games/instruments)<br>spiller, spilte, har spilt
+to play (specific games/instruments)	å spille<br>spiller, spilte, har spilt
+å stave	to spell<br>staver, stavet, har stavet
+to spell	å stave<br>staver, stavet, har stavet
+stille	quiet
+quiet	stille
+stor	big<br>stort, store
+big	stor<br>stort, store
+a stå opp	to get up<br>står opp, sto opp, har stått opp
+to get up	a stå opp<br>står opp, sto opp, har stått opp
+super	super<br>supert, supre
+super	super<br>supert, supre
+et søsken	a brother or sister, sibling<br>søskenet, søsken, søsknene
+a brother or sister, sibling	et søsken<br>søskenet, søsken, søsknene
+ei søster	a sister<br>søst(e)ra, søstre, søstrene<br>better don't put e in søstra
+a sister	ei søster<br>søst(e)ra, søstre, søstrene<br>better don't put e in søstra
+så fint (...)!	what a nice (...)!
+what a nice (...)!	så fint (...)!
+et tall	a figure, number<br>tallet, tall, tallene
+a figure, number	et tall<br>tallet, tall, tallene
+ei tann	a tooth<br>tanna, tenner, tennene
+a tooth	ei tann<br>tanna, tenner, tennene
+te	tea<br>teen (uncountable)
+tea	te<br>teen (uncountable)
+å tenke	to think<br>tenker, tenkte, har tenkt
+to think	å tenke<br>tenker, tenkte, har tenkt
+ei trapp	a staircase, stairs<br>trappa, trapper, trappene
+a staircase, stairs	ei trapp<br>trappa, trapper, trappene
+å treffe	to meet<br>treffer, traff, har truffet
+to meet	å treffe<br>treffer, traff, har truffet
+å tørke	to dry<br>tørker, tørket, har tørket
+to dry	å tørke<br>tørker, tørket, har tørket
+å tørke seg	to dry oneself<br>tørker seg, tørket seg, har tørket seg
+to dry oneself	å tørke seg<br>tørker seg, tørket seg, har tørket seg
+under	under, below
+under, below	under
+ut	out
+out	ut
+ute	out, outside (dynamic)
+out, outside (dynamic)	ute
+utstyr	equipment<br>utstyret, utstyr, utstyrene
+equipment	utstyr<br>utstyret, utstyr, utstyrene
+vann	water<br>vannet (uncountable)
+water	vann<br>vannet (uncountable)
+en vannkoker	vannkuker<br>a kettle<br>vannkokeren, vannkokere, vannkokerne
+a kettle	en vannkoker<br>vannkuker<br>vannkokeren, vannkokere, vannkokerne
+ved siden av	beside (at the side of)
+beside (at the side of)	ved siden av
+vet (å vite)	know (present tense)
+know (present tense)	vet (å vite)
+et vindu	a window<br>vinduet, vinduer, vinduene
+a window	et vindu<br>vinduet, vinduer, vinduene
+å vite	to know<br>vet, visste, har visst
+to know	å vite<br>vet, visste, har visst

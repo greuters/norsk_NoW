@@ -10,6 +10,7 @@ ai	ai
 ai	ai
 Jeg skjønner/forstår.	I understand.
 I understand.	Jeg skjønner/forstår.
+et kjøkken	chjöcken<br>a kitchen<br>kjøkkenet, kjøkken/-er, kjøkkenene
+a kitchen	et kjøkken<br>chjöcken<br>kjøkkenet, kjøkken/-er, kjøkkenene
+ved siden av	beside (at the side of)
 beside (at the side of)	ved siden av
-et kjøkken	chjöcken<br>a kitchen<br>kjøkkenet, kjøkken, kjøkkenene
-a kitchen	et kjøkken<br>chjöcken<br>kjøkkenet, kjøkken, kjøkkenene

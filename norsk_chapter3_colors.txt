@@ -14,8 +14,6 @@ turkis	turquoise
 turquoise	turkis
 lilla	purple
 purple	lilla
-brun	brown<br>brunt, brune
-brown	brun<br>brunt, brune
 hvit	vii, vitt, viite<br>white<br>hvitt, hvite
 white	hvit<br>vii, vitt, viite<br>hvitt, hvite
 svart	black<br>svart, svarte
@@ -26,3 +24,5 @@ blå	blue<br>blått, blå(e)
 blue	blå<br>blått, blå(e)
 Jeg har to store skrivebord.	I have two big desks.<br>stor is adapted (=> plural), bord doesn't get an ending (=> single syllable)
 I have two big desks.	Jeg har to store skrivebord.<br>stor is adapted (=> plural), bord doesn't get an ending (=> single syllable)
+brun	brown<br>brunt, brune
+brown	brun<br>brunt, brune

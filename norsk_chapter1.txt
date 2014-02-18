@@ -102,8 +102,8 @@ Could you repeat?	Kan du gjenta?<br>kan dü jenta?
 to play with (ball, cars, dolls)	å leke med (ball, biler, dokker)<br>without fixed/given rules
 å spille (kort, fotball)	to play (cards, football)<br>with ruleset
 to play (cards, football)	å spille (kort, fotball)<br>with ruleset
-en sentralstasjon	sentralstaschon<br>Central Station
-Central Station	en sentralstasjon<br>sentralstaschon
+en sentralstasjon	sentralstaschon<br>a Central Station
+a Central Station	en sentralstasjon<br>sentralstaschon
 jeg vil (gjerne) ta	I would like to take<br>å ville is followed by infinitive
 I would like to take	jeg vil (gjerne) ta<br>å ville is followed by infinitive
 hun	she
@@ -180,8 +180,6 @@ vant (spillet)	won (the game)
 won (the game)	vant (spillet)
 å vinne	to win
 to win	å vinne
-å spille	to play (specific games/instruments)
-to play (specific games/instruments)	å spille
 Båkmal	buukmol<br>~written danish, norwegianized
 ~written danish, norwegianized	Båkmal<br>buukmol
 Nynorsk	nünorsch<br>norwegian, invented from dialects
@@ -500,3 +498,5 @@ et bord	e bur<br>a table
 a table	et bord<br>e bur
 en stol	a chair
 a chair	en stol
+å spille	to play (specific games/instruments)<br>spiller, spilte, har spilt
+to play (specific games/instruments)	å spille<br>spiller, spilte, har spilt
