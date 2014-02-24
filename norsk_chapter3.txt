@@ -12,8 +12,8 @@ alder	age
 age	alder
 svar	answer
 answer	svar
-korrekt	correct
-correct	korrekt
+korrekt/riktig	rigti<br>correct
+correct	korrekt/riktig<br>rigti
 dato	date
 date	dato
 syttende mai (17.05.)	söttene mai<br>national day (seventeenth of mai)
@@ -44,8 +44,6 @@ nede	down (static)
 down (static)	nede
 hjem	home(wards), (dynamic)
 home(wards), (dynamic)	hjem
-et barn	a child<br>barnet, to barn, alle barna
-a child	et barn<br>barnet, to barn, alle barna
 høyre	right (side)
 right (side)	høyre
 venstre	left (side)
@@ -272,3 +270,103 @@ et vindu	a window<br>vinduet, vinduer, vinduene
 a window	et vindu<br>vinduet, vinduer, vinduene
 å vite	to know<br>vet, visste, har visst
 to know	å vite<br>vet, visste, har visst
+en skyss	used for taxi (jeg får skyss=I'll take the taxi/somebody gives me a lift)<br>fahrgelegenheit
+used for taxi (jeg får skyss=I'll take the taxi/somebody gives me a lift)<br>fahrgelegenheit	en skyss
+vent litt/kan du vente to sekunder	wait a minute<br>more used than øyeblikk in everyday life
+wait a minute	vent litt/kan du vente to sekunder<br>more used than øyeblikk in everyday life
+mett	full (not hungry)
+full (not hungry)	mett
+et kvarter	quarter an hour
+quarter an hour	et kvarter
+gå til	walk to
+walk to	gå til
+gå på + aktivitet (konserter)	to go to a concert
+to go to a concert	gå på + aktivitet (konserter)
+på Moholt (studentby)	to Moholt (student village)
+to Moholt (student village)	på Moholt (studentby)
+i sentrum / i Midtbyen (only used in Trondheim)	to the city centre
+to the city centre	i sentrum / i Midtbyen (only used in Trondheim)
+Jeg borr på en liten hybel	I live in a small room/apartment.
+I live in a small room/apartment.	Jeg borr på en liten hybel
+Det er ei seng bak bordet.<br>Det står, er, ligger + Objekt + Location	There is a door ... like sentences<br>Den har ei dør is not often used.
+There is a door ... like sentences	Det er ei seng bak bordet.<br>Det står, er, ligger + Objekt + Location<br>Den har ei dør is not often used.
+I hjørnet står det et skap.	In the corner stands a cabinet.
+In the corner stands a cabinet.	I hjørnet står det et skap.
+Han er datatekniker.	He's a computer scientist.<br>noun+noun => compound noun!
+He's a computer scientist.	Han er datatekniker.<br>noun+noun => compound noun!
+et søskenbarn	a cousin
+a cousin	et søskenbarn
+en bestefar	a grandfather
+a grandfather	en bestefar
+ei bestemor	a grandmother
+a grandmother	ei bestemor
+en fetter	a cousin (masculin, precise)
+a cousin (masculin, precise)	en fetter
+ei kusine	a cousine (feminine, precise)
+a cousine (feminine, precise)	ei kusine
+en kjæreste	a girl/boyfriend
+a girl/boyfriend	en kjæreste
+ei kone	a wife
+a wife	ei kone
+en mann	a husband / a man<br>mannen, mange menn, alle mennene
+a husband / a man	en mann<br>mannen, mange menn, alle mennene
+en samboer	not married, but like husband/wife
+not married, but like husband/wife	en samboer
+Faren min	my father
+my father	Faren min
+Mora mi	my mother
+my mother	Mora mi
+Søskenbarnet mitt	my cousin
+my cousin	Søskenbarnet mitt
+Brødrene mine	my brothers
+my brothers	Brødrene mine
+søstrene mine	my sisters
+my sisters	søstrene mine
+søskenbarna mine	my cousins
+my cousins	søskenbarna mine
+et barn	a child<br>barnet, to barn, alle barna
+a child	et barn<br>barnet, to barn, alle barna
+min far	my father<br>formal, old fashioned and if you want to focus on "my"
+my father	min far<br>formal, old fashioned and if you want to focus on "my"
+mi mor	my mother<br>old fashioned, focusing on "my"
+my mother	mi mor<br>old fashioned, focusing on "my"
+hans	his
+his	hans
+mi	my (feminine)
+my (feminine)	mi
+min	my (masculine)
+my (masculine)	min
+mitt	my (neutral)
+my (neutral)	mitt
+din	your (masculine)
+your (masculine)	din
+di	your (feminine)
+your (feminine)	di
+ditt	your (neutral)
+your (neutral)	ditt
+foreldre	parents
+parents	foreldre
+farfar	grandfather (father's father)
+grandfather (father's father)	farfar
+farmor	grandmother
+grandmother	farmor
+en pensjonist	a retired person
+a retired person	en pensjonist
+hverandre	each other
+each other	hverandre
+begge	both
+both	begge
+en onkler	an uncle
+an uncle	en onkler
+som.<br>Jeg har ei søstre som er tjue år.	who (in a relative sentence)<br>I have a sister who's twenty years old.
+who (in a relative sentence)<br>I have a sister who's twenty years old.	som.<br>Jeg har ei søstre som er tjue år.
+dessuten (har jeg)	besides (I have)
+besides (I have)	dessuten (har jeg)
+alene	alone
+alone	alene
+siden	since
+since	siden
+døde	died
+died	døde
+hele (familien)	whole (family)
+whole (family)	hele (familien)

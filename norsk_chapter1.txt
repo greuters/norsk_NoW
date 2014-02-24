@@ -290,8 +290,8 @@ Spørsmal?	spöschmol<br>Question(s)?
 Question(s)?	Spørsmal?<br>spöschmol
 også	osso<br>also
 also	også<br>osso
-Jeg forstå litt norsk, men snakker ikke.	I understand a bit of norwegian, but don't speak any.
-I understand a bit of norwegian, but don't speak any.	Jeg forstå litt norsk, men snakker ikke.
+Jeg forstår litt norsk, men snakker ikke.	I understand a bit of norwegian, but don't speak any.
+I understand a bit of norwegian, but don't speak any.	Jeg forstår litt norsk, men snakker ikke.
 en antropologi	an anthropology
 an anthropology	en antropologi
 en arkitektur	an architecture
@@ -336,8 +336,8 @@ en	a, an, one (masculin)
 a, an, one (masculin)	en
 engelsk	English
 English	engelsk
-er (å være)	am, are, is
-am, are, is	er (å være)
+er (å være)	är<br>am, are, is
+am, are, is	er (å være)<br>är
 et	a, an (neutrum)
 a, an (neutrum)	et
 en familie	a family <br>familien, familier, familiene
@@ -464,8 +464,6 @@ you're welcome! please! here you are!	vær så god!<br>wä scho gud
 to be, exist	å være<br>er, var, har vært
 å	o<br>to (infinitive marker)
 to (infinitive marker)	å<br>o
-en mann	a man<br>mannen, mange menn, alle mennene
-a man	en mann<br>mannen, mange menn, alle mennene
 en student	a student
 a student	en student
 en turist	a tourist<br>turisten, turister, turistene
@@ -492,11 +490,13 @@ et nummer	nummer<br>a number
 a number	et nummer<br>nummer
 å se	oa se<br>to see<br>ser, så, har sett
 to see	å se<br>oa se<br>ser, så, har sett
-å spørre	oa spörre<br>to ask<br>spør, spurte, har spurt
-to ask	å spørre<br>oa spörre<br>spør, spurte, har spurt
+å spørre	oa spörre, spör, spörte, harr spört<br>to ask<br>spør, spurte, har spurt
+to ask	å spørre<br>oa spörre, spör, spörte, harr spört<br>spør, spurte, har spurt
 et bord	e bur<br>a table
 a table	et bord<br>e bur
 en stol	a chair
 a chair	en stol
 å spille	to play (specific games/instruments)<br>spiller, spilte, har spilt
 to play (specific games/instruments)	å spille<br>spiller, spilte, har spilt
+en mann	a husband / a man<br>mannen, mange menn, alle mennene
+a husband / a man	en mann<br>mannen, mange menn, alle mennene

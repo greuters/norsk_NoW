@@ -8,8 +8,8 @@ april	april
 april	april
 mai	may
 may	mai
-juni	june
-june	juni
+juni	jüni<br>june
+june	juni<br>jüni
 juli	july
 july	juli
 august	august

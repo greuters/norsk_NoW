@@ -16,8 +16,6 @@ en nøkkel	a key<br>nøkkelen, mange nøkler, alle nøklene
 a key	en nøkkel<br>nøkkelen, mange nøkler, alle nøklene
 en sykkel	a bike<br>sykkelen, tre sykler, alle syklene
 a bike	en sykkel<br>sykkelen, tre sykler, alle syklene
-en mann	a man<br>mannen, mange menn, alle mennene
-a man	en mann<br>mannen, mange menn, alle mennene
 en nordmann	a Norwegian<br>nordmannen, mange nordmenn, alle nordmennene
 a Norwegian	en nordmann<br>nordmannen, mange nordmenn, alle nordmennene
 Jeg leder.	I'm in lead.
@@ -226,8 +224,8 @@ Bordet er brunt.	The table is brown.
 The table is brown.	Bordet er brunt.
 Bordene/Stolene er gule	The tables/chairs are yellow.
 The tables/chairs are yellow.	Bordene/Stolene er gule
-jeg blir	I'll be
-I'll be	jeg blir
+jeg blir tjuetre i mai	I'll turn twentythree in may
+I'll turn twentythree in may	jeg blir tjuetre i mai
 natta	the night
 the night	natta
 mange netter	some nights
@@ -304,8 +302,8 @@ flott	great, good
 great, good	flott
 en flybuss	an airport express coach
 an airport express coach	en flybuss
-for	for<br>for, because
-for, because	for<br>for
+for	for<br>for
+for	for<br>for
 forbi	forbi<br>past, by
 past, by	forbi<br>forbi
 fram	forth, forward, on
@@ -316,8 +314,8 @@ first	først
 to get, receive	å få<br>får, fikk, har fått
 gjerne	would like
 would like	gjerne
-å gå	to go<br>går, gikk, har gått
-to go	å gå<br>går, gikk, har gått
+å gå	gor, jik, har gott<br>to walk<br>går, gikk, har gått
+to walk	å gå<br>gor, jik, har gott<br>går, gikk, har gått
 halv	hal<br>half
 half	halv<br>hal
 hei	hi
@@ -344,10 +342,10 @@ ei klokke	a clock/watch
 a clock/watch	ei klokke
 en kopp	a cup
 a cup	en kopp
-å kunne	(the infinitive of) can, to be able to
-(the infinitive of) can, to be able to	å kunne
-kvart	quarter
-quarter	kvart
+å kunne	(the infinitive of) can, to be able to<br>kan, kunnet, har kunnet
+(the infinitive of) can, to be able to	å kunne<br>kan, kunnet, har kunnet
+kvart (over)	a quarter (past)
+a quarter (past)	kvart (over)
 å lande	to land<br>lander, landet, har landet
 to land	å lande<br>lander, landet, har landet
 en mandag	a monday
@@ -358,8 +356,8 @@ much, a lot, plenty	mye
 to have to, must	å måtte<br>må, måtte, har måttet
 ni	nine
 nine	ni
-noen	nuuen<br>some, somebody, any, anybody
-some, somebody, any, anybody	noen<br>nuuen
+noen (en) / noe (et+ei)	nuuen<br>some, somebody, any, anybody
+some, somebody, any, anybody	noen (en) / noe (et+ei)<br>nuuen
 et nummer	nummer<br>a number
 a number	et nummer<br>nummer
 når	when
@@ -374,16 +372,16 @@ en parkeringsplass	a parking lot
 a parking lot	en parkeringsplass
 en resepsjon	resepschun<br>a reception
 a reception	en resepsjon<br>resepschun
-rett	straight, directly
-straight, directly	rett
+rett	straight, directly (also correct)
+straight, directly (also correct)	rett
 å rope	ruupe<br>to call, cry, shout
 to call, cry, shout	å rope<br>ruupe
-et rundstykke	a roll (some sweet)
-a roll (some sweet)	et rundstykke
+et rundstykke	a roll (some sweet)/brötchen
+a roll (some sweet)/brötchen	et rundstykke
 å se	oa se<br>to see<br>ser, så, har sett
 to see	å se<br>oa se<br>ser, så, har sett
-selvfølgelig	of course
-of course	selvfølgelig
+selvfølgelig/selvsagt	of course
+of course	selvfølgelig/selvsagt
 en sentralstasjon	a central station
 a central station	en sentralstasjon
 et sentrum	a centre
@@ -398,8 +396,8 @@ a sign, signpost	et skilt<br>schilt
 will, shall (infinitive)	å skulle<br>skal, skulle, har skullet
 å spise	to eat<br>spiser, spiste, har spist
 to eat	å spise<br>spiser, spiste, har spist
-å spørre	oa spörre<br>to ask<br>spør, spurte, har spurt
-to ask	å spørre<br>oa spörre<br>spør, spurte, har spurt
+å spørre	oa spörre, spör, spörte, harr spört<br>to ask<br>spør, spurte, har spurt
+to ask	å spørre<br>oa spörre, spör, spörte, harr spört<br>spør, spurte, har spurt
 å stenge	to close<br>stenger, stengte, har stengt
 to close	å stenge<br>stenger, stengte, har stengt
 å sta	to stand<br>står, sto, har stått
@@ -408,8 +406,8 @@ sulten	hungry<br>sultent, sultne
 hungry	sulten<br>sultent, sultne
 å takke	to thank<br>takker, takket, har takket
 to thank	å takke<br>takker, takket, har takket
-en taxi	a taxi
-a taxi	en taxi
+en taxi	a taxi<br>taxien, taxier, taxiene
+a taxi	en taxi<br>taxien, taxier, taxiene
 en taxisjåfør	a taxi driver
 a taxi driver	en taxisjåfør
 ti	ten
@@ -444,3 +442,5 @@ venstre	left (side)
 left (side)	venstre
 en italiener	an Italian<br>italieneren, italienere, italienerne
 an Italian	en italiener<br>italieneren, italienere, italienerne
+en mann	a husband / a man<br>mannen, mange menn, alle mennene
+a husband / a man	en mann<br>mannen, mange menn, alle mennene

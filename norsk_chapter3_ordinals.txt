@@ -1,7 +1,7 @@
 tredje	third
 third	tredje
-fjerde	fjäre<br>fourth
-fourth	fjerde<br>fjäre
+fjerde	fjärde<br>fourth
+fourth	fjerde<br>fjärde
 femte	fifth
 fifth	femte
 sjette	schette<br>seventh
@@ -18,8 +18,8 @@ ellevte	eleventh
 eleventh	ellevte
 tolvte	toolte<br>twelvth
 twelvth	tolvte<br>toolte
-...de<br>trettede<br>fjortende<br>tjuende	thirteen and following..<br>thirteenth<br>fourteenth<br>twentieth
-thirteen and following..<br>thirteenth<br>fourteenth<br>twentieth	...de<br>trettede<br>fjortende<br>tjuende
+...de<br>trettevte<br>fjortende<br>tjuende	thirteen and following..<br>thirteenth<br>fourteenth<br>twentieth
+thirteen and following..<br>thirteenth<br>fourteenth<br>twentieth	...de<br>trettevte<br>fjortende<br>tjuende
 trettiende	thirtieth
 thirtieth	trettiende
 andre	second, other
