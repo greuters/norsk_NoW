@@ -68,8 +68,6 @@ brun	brown<br>brunt, brune
 brown	brun<br>brunt, brune
 et brød	a bread, a loaf of bread<br>brødet, brød, brødene
 a bread, a loaf of bread	et brød<br>brødet, brød, brødene
-ei brødskive	a slice of bread<br>brødskiva, brødskiver, brødskivene
-a slice of bread	ei brødskive<br>brødskiva, brødskiver, brødskivene
 en bygning	a building<br>bygningen, bygninger, bygningene
 a building	en bygning<br>bygningen, bygninger, bygningene
 å bære	to carry<br>bærer, bar, har båret
@@ -180,8 +178,6 @@ et møbel	a piece of furniture<br>møbelet, møbler, møblene
 a piece of furniture	et møbel<br>møbelet, møbler, møblene
 nr	no.
 no.	nr
-en ost	a cheese<br>osten, oster, ostene
-a cheese	en ost<br>osten, oster, ostene
 et pass	a passport<br>passet, pass, passene
 a passport	et pass<br>passet, pass, passene
 et piano	a piano<br>pianoet, pianoer, pianoene
@@ -204,8 +200,6 @@ to sit down	å sette seg<br>setter seg, satte seg, har satt seg
 to say	å si<br>sier, sa, har sagt
 en sjokolade	a chocolate<br>sjokoladen, sjokolader, sjokoladene
 a chocolate	en sjokolade<br>sjokoladen, sjokolader, sjokoladene
-ei skinke	a ham<br>skinka, skinker, skinkene
-a ham	ei skinke<br>skinka, skinker, skinkene
 ei skive	a slice<br>skiva, skiver, skivene
 a slice	ei skive<br>skiva, skiver, skivene
 et skjema	a form<br>skjemaet, skjema, skjemaene
@@ -248,8 +242,6 @@ a staircase, stairs	ei trapp<br>trappa, trapper, trappene
 to meet	å treffe<br>treffer, traff, har truffet
 å tørke	to dry<br>tørker, tørket, har tørket
 to dry	å tørke<br>tørker, tørket, har tørket
-å tørke seg	to dry oneself<br>tørker seg, tørket seg, har tørket seg
-to dry oneself	å tørke seg<br>tørker seg, tørket seg, har tørket seg
 under	under, below
 under, below	under
 ut	out
@@ -370,3 +362,69 @@ døde	died
 died	døde
 hele (familien)	whole (family)
 whole (family)	hele (familien)
+å kle på seg	to dress
+to dress	å kle på seg
+min gitar - gitaren min	my guitar
+my guitar	min gitar - gitaren min
+Marias gitar - Gitaren til Maria	Maria's guitar
+Maria's guitar	Marias gitar - Gitaren til Maria
+Hennes gitar - gitaren hennes.	Her guitar
+Her guitar	Hennes gitar - gitaren hennes.
+Jeg vasker meg	I'm washing myself.
+I'm washing myself.	Jeg vasker meg
+Du vasker deg.	You're washing yourself.
+You're washing yourself.	Du vasker deg.
+Han/Hun/Det/Den vasker seg.	He/She/It washes him/her/itself.
+He/She/It washes him/her/itself.	Han/Hun/Det/Den vasker seg.
+Han vasker han.	He's washing him (another person).
+He's washing him (another person).	Han vasker han.
+Vi vasker oss.	We wash ourselves.
+We wash ourselves.	Vi vasker oss.
+Dere vasker dere.	They wash themselves.
+They wash themselves.	Dere vasker dere.
+De vasker seg.	They wash themselves.
+They wash themselves.	De vasker seg.
+å glede seg til	to look forward to
+to look forward to	å glede seg til
+å tørke seg	to dry oneself<br>tørker seg, tørket seg, har tørket seg
+to dry oneself	å tørke seg<br>tørker seg, tørket seg, har tørket seg
+å reise seg	to rise/get up
+to rise/get up	å reise seg
+å legge seg	to lie down
+to lie down	å legge seg
+ei skinke	schingge<br>a ham<br>skinka, skinker, skinkene
+a ham	ei skinke<br>schingge<br>skinka, skinker, skinkene
+et glass melk	a glass of milk
+a glass of milk	et glass melk
+en kopp te	a cup of tea
+a cup of tea	en kopp te
+en kopp kaffe	a cup of coffee
+a cup of coffee	en kopp kaffe
+et glass vann	a glass of water
+a glass of water	et glass vann
+en banan	a banana
+a banana	en banan
+et kakestykke	a piece of cake
+a piece of cake	et kakestykke
+et glass brus	a glass of soda
+a glass of soda	et glass brus
+ei brødskive	brödschive<br>a slice of bread<br>brødskiva, brødskiver, brødskivene
+a slice of bread	ei brødskive<br>brödschive<br>brødskiva, brødskiver, brødskivene
+ei pære	a pear
+a pear	ei pære
+syltetøy	sültetöy<br>jam
+jam	syltetøy<br>sültetöy
+appelsinjus	appelsinjüs<br>orange juice
+orange juice	appelsinjus<br>appelsinjüs
+et rundstykke	a piece of bread (not sweet) / brötchen
+a piece of bread (not sweet) / brötchen	et rundstykke
+boller	a piece of bread (sweet)
+a piece of bread (sweet)	boller
+grønnsaker	vegetables
+vegetables	grønnsaker
+kjøtt	meat
+meat	kjøtt
+fisk	fish
+fish	fisk
+en ost	ust<br>a cheese<br>osten, oster, ostene
+a cheese	en ost<br>ust<br>osten, oster, ostene

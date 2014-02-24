@@ -376,8 +376,6 @@ rett	straight, directly (also correct)
 straight, directly (also correct)	rett
 å rope	ruupe<br>to call, cry, shout
 to call, cry, shout	å rope<br>ruupe
-et rundstykke	a roll (some sweet)/brötchen
-a roll (some sweet)/brötchen	et rundstykke
 å se	oa se<br>to see<br>ser, så, har sett
 to see	å se<br>oa se<br>ser, så, har sett
 selvfølgelig/selvsagt	of course
