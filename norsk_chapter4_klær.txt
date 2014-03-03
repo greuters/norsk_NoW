@@ -1,0 +1,50 @@
+ei kåpe	a women's coat
+a women's coat	ei kåpe
+ei skjorte	a shirt<br>
+a shirt<br>	ei skjorte
+å ta på seg + object	to dress
+to dress	å ta på seg + object
+å ha på seg	to wear
+to wear	å ha på seg
+en hettegenser	a hoodie
+a hoodie	en hettegenser
+ei hettejakke	a hooded jacket
+a hooded jacket	ei hettejakke
+en shorts	a pair of shors
+a pair of shors	en shorts
+et skjørt	et schört<br>a skirt
+a skirt	et skjørt<br>et schört
+ei T-skjorte	Te-schurte<br>a T-shirt
+a T-shirt	ei T-skjorte<br>Te-schurte
+hansker	gloves
+gloves	hansker
+en hatt	a hat
+a hat	en hatt
+ei lue	a (winter) cap
+a (winter) cap	ei lue
+et slips	a tie
+a tie	et slips
+et skjerf	a scarf
+a scarf	et skjerf
+et skaut	a head scarf
+a head scarf	et skaut
+en sko	shoe/shoes<br>skoen, to sko, skoene (note the exception)
+shoe/shoes	en sko<br>skoen, to sko, skoene (note the exception)
+soker	socks
+socks	soker
+støvler	boots
+boots	støvler
+rutete	squared (kariert)
+squared (kariert)	rutete
+stripete	striped
+striped	stripete
+blomstrete	flower pattern on it
+flower pattern on it	blomstrete
+en blå jeans	a blue jeans
+a blue jeans	en blå jeans
+jogge sko	jogging shoes/sneakers
+jogging shoes/sneakers	jogge sko
+vinter sko	winter shoes/boots
+winter shoes/boots	vinter sko
+å hilse på noen	to greet somebody
+to greet somebody	å hilse på noen

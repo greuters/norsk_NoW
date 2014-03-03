@@ -190,8 +190,8 @@ Bussen kjører	bussen chjöre<br>The bus drives
 The bus drives	Bussen kjører<br>bussen chjöre
 Vi skal (dra) til City Syd halv åtte.	We shall go to City Syd half past seven.<br>dra is optional, verbs of movement can be omitted after skal
 We shall go to City Syd half past seven.	Vi skal (dra) til City Syd halv åtte.<br>dra is optional, verbs of movement can be omitted after skal
-Hun må (går) hjem.	She must go home.<br>går is optional, verb of movement
-She must go home.	Hun må (går) hjem.<br>går is optional, verb of movement
+Hun må (gå) hjem.	She must go home.<br>gå is optional, verb of movement
+She must go home.	Hun må (gå) hjem.<br>gå is optional, verb of movement
 en venn	a friend
 a friend	en venn
 Jeg skal snakke med venner.	I'm going to speak with some friends.
@@ -204,8 +204,6 @@ to go hiking	å gå på tur
 to go for a walk	å gå en tur
 Først skal jeg lage mat. Så skal jeg trene i kveld.	First I'll cook, then I'm going to workout in the evening.
 First I'll cook, then I'm going to workout in the evening.	Først skal jeg lage mat. Så skal jeg trene i kveld.
-så	so, then
-so, then	så
 en film	a movie
 a movie	en film
 en brun stol	a brown chair
@@ -350,8 +348,6 @@ a quarter (past)	kvart (over)
 to land	å lande<br>lander, landet, har landet
 en mandag	a monday
 a monday	en mandag
-mye	much, a lot, plenty
-much, a lot, plenty	mye
 å måtte	to have to, must<br>må, måtte, har måttet
 to have to, must	å måtte<br>må, måtte, har måttet
 ni	nine
@@ -398,8 +394,8 @@ to eat	å spise<br>spiser, spiste, har spist
 to ask	å spørre<br>oa spörre, spör, spörte, harr spört<br>spør, spurte, har spurt
 å stenge	to close<br>stenger, stengte, har stengt
 to close	å stenge<br>stenger, stengte, har stengt
-å sta	to stand<br>står, sto, har stått
-to stand	å sta<br>står, sto, har stått
+å stå	to stand<br>står, sto, har stått
+to stand	å stå<br>står, sto, har stått
 sulten	hungry<br>sultent, sultne
 hungry	sulten<br>sultent, sultne
 å takke	to thank<br>takker, takket, har takket
@@ -430,8 +426,6 @@ a moment	et øyeblikk
 eight	åtte
 gul	yellow
 yellow	gul
-å ligge	to lie / to stand, lie<br>ligger, lå, har ligget
-to lie / to stand, lie	å ligge<br>ligger, lå, har ligget
 inn	in, inside, into, movement (herein)
 in, inside, into, movement (herein)	inn
 høyre	right (side)
@@ -442,3 +436,9 @@ en italiener	an Italian<br>italieneren, italienere, italienerne
 an Italian	en italiener<br>italieneren, italienere, italienerne
 en mann	a husband / a man<br>mannen, mange menn, alle mennene
 a husband / a man	en mann<br>mannen, mange menn, alle mennene
+mye	much
+much	mye
+å ligge	to stand, lie<br>ligger, lå, har ligget
+to stand, lie	å ligge<br>ligger, lå, har ligget
+så	so, then
+so, then	så

@@ -1,0 +1,154 @@
+vær så snitt	please (be so kind)
+please (be so kind)	vær så snitt
+Jeg vil gjerne ha	I'd like to have
+I'd like to have	Jeg vil gjerne ha
+Jeg liker å spise	I like eating
+I like eating	Jeg liker å spise
+frukt	fruits
+fruits	frukt
+vanligvis (normalt)	normally
+normally	vanligvis (normalt)
+frokost	breakfast
+breakfast	frokost
+Jeg pleier å spise frokost klokka 7.	I use to eat breakfast at seven.
+I use to eat breakfast at seven.	Jeg pleier å spise frokost klokka 7.
+Jeg pleier å trene to ganger i uka.	I use to train twice a week
+I use to train twice a week	Jeg pleier å trene to ganger i uka.
+en ost	ust<br>a cheese<br>osten, oster, ostene
+a cheese	en ost<br>ust<br>osten, oster, ostene
+et knekkebrød	ein knäckebrot
+ein knäckebrot	et knekkebrød
+å begynne	to start
+to start	å begynne
+å slutte	to stop
+to stop	å slutte
+Jeg begynner å lage mat kl. 10.	I start cooking at 10.
+I start cooking at 10.	Jeg begynner å lage mat kl. 10.
+Jeg slutter å jobbe kl. 15.30.	I stop working at 15.30.
+I stop working at 15.30.	Jeg slutter å jobbe kl. 15.30.
+klær	clothes
+clothes	klær
+en bluse	a blouse
+a blouse	en bluse
+ei bukse	a pair of trousers
+a pair of trousers	ei bukse
+en dress	a suit
+a suit	en dress
+en frakk	a men's coat
+a men's coat	en frakk
+ei jakke	a jacket
+a jacket	ei jakke
+en kjole	a dress
+a dress	en kjole
+setter seg for å gjøre (.. for å ..)	to sit down to do something; (... to ...)
+to sit down to do something; (... to ...)	setter seg for å gjøre (.. for å ..)
+et badet	the bathroom
+the bathroom	et badet
+å vete 	to know<br>vet, 
+to know	å vete <br>vet, 
+å gleder seg til	to look forward to
+to look forward to	å gleder seg til
+Det blir spennende.	It's going to be exciting
+It's going to be exciting	Det blir spennende.
+å synes	to think (after personal experience, my opinion)<br>synes, 
+to think (after personal experience, my opinion)	å synes<br>synes, 
+å tenke	to think (rational, prediction)<br>tenker, tenkte, har tenkt
+to think (rational, prediction)	å tenke<br>tenker, tenkte, har tenkt
+å tro	to believe (think, after hearsay)<br>tror
+to believe (think, after hearsay)	å tro<br>tror
+å tro på Gud	to believe in God
+to believe in God	å tro på Gud
+Jeg tenker på deg.	I think about you.
+I think about you.	Jeg tenker på deg.
+igjen	iyen<br>again, left (300 km left)
+again, left (300 km left)	igjen<br>iyen
+Jeg tror det er 300 km.	I guess it is 300 km.
+I guess it is 300 km.	Jeg tror det er 300 km.
+å gjette	to guess (like in gambling)<br>Kan du gjette hvor gammel jeg er?
+to guess (like in gambling)	å gjette<br>Kan du gjette hvor gammel jeg er?
+den her = denne	this
+this	den her = denne
+den der = den	that
+that	den der = den
+den der borte	over there
+over there	den der borte
+borte	away
+away	borte
+Jeg skal reise bort i helga.	I'm going to go away this weekend.
+I'm going to go away this weekend.	Jeg skal reise bort i helga.
+et annet	a:ant<br>another
+another	et annet<br>a:ant
+Kan du hente de bøkene der borte?	Can you fetch those books over there?
+Can you fetch those books over there?	Kan du hente de bøkene der borte?
+Jeg kjenner alle her.	I know everybody here.
+I know everybody here.	Jeg kjenner alle her.
+Du kan alt.	You can do everything.
+You can do everything.	Du kan alt.
+mange	many
+many	mange
+mye	much
+much	mye
+ei lita ordbok	a small dictionary
+a small dictionary	ei lita ordbok
+Det er ganske lite.	ganske<br>It is really small.
+It is really small.	Det er ganske lite.<br>ganske
+annen	a:an<br>other (masculin)
+other (masculin)	annen<br>a:an
+annet	a:ant<br>other (neutrum)
+other (neutrum)	annet<br>a:ant
+andre	second, other (plural)
+second, other (plural)	andre
+anna	other (feminine)
+other (feminine)	anna
+Jeg liker ikke denne kåpa. Kan jeg prøve ei anna kåpe.	I don't like this (womens) coat. Can I try on another one?
+I don't like this (womens) coat. Can I try on another one?	Jeg liker ikke denne kåpa. Kan jeg prøve ei anna kåpe.
+å befinne seg	to be located
+to be located	å befinne seg
+å ligge	to stand, lie<br>ligger, lå, har ligget
+to stand, lie	å ligge<br>ligger, lå, har ligget
+Banken ligger ved siden av kinoen.	The bank is located next to the cinema.
+The bank is located next to the cinema.	Banken ligger ved siden av kinoen.
+overfor	opposite (side)<br>on the other side of the street
+opposite (side)	overfor<br>on the other side of the street
+ovenfor	above
+above	ovenfor
+Festningen ligger ovenfor Bakklandet.	The castle lies above Bakklandet.
+The castle lies above Bakklandet.	Festningen ligger ovenfor Bakklandet.
+nedenfor	below
+below	nedenfor
+til venstre	to the left
+to the left	til venstre
+ta til høyre	take right
+take right	ta til høyre
+Gå rett fram.	Walk straight ahead.
+Walk straight ahead.	Gå rett fram.
+Hvor ligger tog stasjon? Gå rett fram 300m og ta til venstre.	Where is the train station? Go straight ahead 300m, and then turn left.
+Where is the train station? Go straight ahead 300m, and then turn left.	Hvor ligger tog stasjon? Gå rett fram 300m og ta til venstre.
+fiske/kjøtt/kleier buttiken	the fish/meat/clothes shop
+the fish/meat/clothes shop	fiske/kjøtt/kleier buttiken
+ett kart / et kart	one card / a card
+one card / a card	ett kart / et kart
+heldigvis	luckily
+luckily	heldigvis
+tikroning	a ten crown coin
+a ten crown coin	tikroning
+Du kan ta denne osten i stedet.	You can take that cheese instead.
+You can take that cheese instead.	Du kan ta denne osten i stedet.
+for stor	too big
+too big	for stor
+Den ser fin ut.	They look fine.
+They look fine.	Den ser fin ut.
+et nytt skjerf	schärf<br>a new scarf
+a new scarf	et nytt skjerf<br>schärf
+Nei, dessverre.	No, unfortunately.
+No, unfortunately.	Nei, dessverre.
+prøverommet	the room to try clothes on
+the room to try clothes on	prøverommet
+lyse(grå)	light (grey)<br>compound, not two words (lyseblå)
+light (grey)	lyse(grå)<br>compound, not two words (lyseblå)
+farge	color
+color	farge
+å søke	to search for (used to search in the internet, not for "practical stuff")
+to search for (used to search in the internet, not for "practical stuff")	å søke
+å lete etter	to search (practical stuff, e.g. clothes), to look for
+to search (practical stuff, e.g. clothes), to look for	å lete etter

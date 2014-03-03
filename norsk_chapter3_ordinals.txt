@@ -22,7 +22,7 @@ twelvth	tolvte<br>toolte
 thirteen and following..<br>thirteenth<br>fourteenth<br>twentieth	...de<br>trettevte<br>fjortende<br>tjuende
 trettiende	thirtieth
 thirtieth	trettiende
-andre	second, other
-second, other	andre
 første	first
 first	første
+andre	second, other (plural)
+second, other (plural)	andre

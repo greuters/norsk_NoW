@@ -1,0 +1,66 @@
+herreklaer	men's clothing
+men's clothing	herreklaer
+dameklaer	women's clothing
+women's clothing	dameklaer
+skole	school
+school	skole
+bibliotek	library
+library	bibliotek
+frukt buttiken	the fruit store
+the fruit store	frukt buttiken
+kiosk	chiosk<br>kiosk
+kiosk	kiosk<br>chiosk
+galleri/malerier	gallery
+gallery	galleri/malerier
+glass butikken	glass house
+glass house	glass butikken
+en pub	en pöb<br>a pub
+a pub	en pub<br>en pöb
+barneklaer	children's clothing
+children's clothing	barneklaer
+klesbutikken (for menn, for damer, for barn)	the cloth shop (for men, women, children)
+the cloth shop (for men, women, children)	klesbutikken (for menn, for damer, for barn)
+lyskrysset	crossroads with traffic lights
+crossroads with traffic lights	lyskrysset
+krysset	the crossroads
+the crossroads	krysset
+treningsstudio	sport center
+sport center	treningsstudio
+bokhandel	book store
+book store	bokhandel
+sko butikke	shoe store
+shoe store	sko butikke
+mat butikke	food store
+food store	mat butikke
+postkontor	post office
+post office	postkontor
+restaurant	restaurant
+restaurant	restaurant
+Ta første vei til høyre.	Take the first road to the right.
+Take the first road to the right.	Ta første vei til høyre.
+Bakeriet ligge på venstre side.	The bakery lies on the left side.
+The bakery lies on the left side.	Bakeriet ligge på venstre side.
+sports butikken	sports shop
+sports shop	sports butikken
+Gå forbi sko butikken så bussstasjon ligger på venstre side.	Go past the shoe store, then the bus station is to your left.
+Go past the shoe store, then the bus station is to your left.	Gå forbi sko butikken så bussstasjon ligger på venstre side.
+en inngang	an entrance
+an entrance	en inngang
+på hjørnet	on the corner
+on the corner	på hjørnet
+rundt hjørnet	around the corner
+around the corner	rundt hjørnet
+på høyre kan du seer..	on your right, you see...
+on your right, you see...	på høyre kan du seer..
+Først går du rett fram.	First, you're going straight ahead.
+First, you're going straight ahead.	Først går du rett fram.
+så	so, then
+so, then	så
+Etter matbutikken	After the food store
+After the food store	Etter matbutikken
+Gå rundt kiosken.	Go around the kiosk.
+Go around the kiosk.	Gå rundt kiosken.
+Gå ned trappa.	Go down the stairs.
+Go down the stairs.	Gå ned trappa.
+Gå uten rommet. Så gar du rett fram forbi bokhandelen. Etterpå tar du til venstre, gå rundt hjørnet. Gå opp trappa, inn ei dør. Der ligger kantina!	Leave the room. Then go straight ahead, past the book store. Afterwards, turn left, go around the corner. Go up the stairs, and inside the doors. There is the cantine!
+Leave the room. Then go straight ahead, past the book store. Afterwards, turn left, go around the corner. Go up the stairs, and inside the doors. There is the cantine!	Gå uten rommet. Så gar du rett fram forbi bokhandelen. Etterpå tar du til venstre, gå rundt hjørnet. Gå opp trappa, inn ei dør. Der ligger kantina!

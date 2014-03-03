@@ -22,8 +22,6 @@ tjuesjuende au	chüschüende äü<br>27. 08.
 27. 08.	tjuesjuende au<br>chüschüende äü
 å ligger	to lie
 to lie	å ligger
-å ligge	to lie / to stand, lie<br>ligger, lå, har ligget
-to lie / to stand, lie	å ligge<br>ligger, lå, har ligget
 fæle	ugly, awful
 ugly, awful	fæle
 Jeg tenker deg.	I'm thinking of you/I think about you.
@@ -54,8 +52,6 @@ aldri	never
 never	aldri
 alt (all)	all, everything
 all, everything	alt (all)
-andre	second, other
-second, other	andre
 et bad	a bath<br>badet, bad, badene
 a bath	et bad<br>badet, bad, badene
 å barbere seg	to shave<br>barberer seg, barberte seg, har barbert seg
@@ -234,8 +230,6 @@ ei tann	a tooth<br>tanna, tenner, tennene
 a tooth	ei tann<br>tanna, tenner, tennene
 te	tea<br>teen (uncountable)
 tea	te<br>teen (uncountable)
-å tenke	to think<br>tenker, tenkte, har tenkt
-to think	å tenke<br>tenker, tenkte, har tenkt
 ei trapp	a staircase, stairs<br>trappa, trapper, trappene
 a staircase, stairs	ei trapp<br>trappa, trapper, trappene
 å treffe	to meet<br>treffer, traff, har truffet
@@ -428,3 +422,9 @@ fisk	fish
 fish	fisk
 en ost	ust<br>a cheese<br>osten, oster, ostene
 a cheese	en ost<br>ust<br>osten, oster, ostene
+å tenke	to think (rational, prediction)<br>tenker, tenkte, har tenkt
+to think (rational, prediction)	å tenke<br>tenker, tenkte, har tenkt
+andre	second, other (plural)
+second, other (plural)	andre
+å ligge	to stand, lie<br>ligger, lå, har ligget
+to stand, lie	å ligge<br>ligger, lå, har ligget
