@@ -10,8 +10,8 @@ mai	may
 may	mai
 juni	jüni<br>june
 june	juni<br>jüni
-juli	july
-july	juli
+juli	jüli<br>july
+july	juli<br>jüli
 august	august
 august	august
 september	september

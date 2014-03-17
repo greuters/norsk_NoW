@@ -20,8 +20,12 @@ syttende mai (17.05.)	söttene mai<br>national day (seventeenth of mai)
 national day (seventeenth of mai)	syttende mai (17.05.)<br>söttene mai
 tjuesjuende au	chüschüende äü<br>27. 08.
 27. 08.	tjuesjuende au<br>chüschüende äü
-å ligger	to lie
-to lie	å ligger
+sau	säu<br>sheep
+sheep	sau<br>säu
+Jeg skjønner/forstår.	schönner<br>I understand.
+I understand.	Jeg skjønner/forstår.<br>schönner
+å ligge	to lie
+to lie	å ligge
 fæle	ugly, awful
 ugly, awful	fæle
 Jeg tenker deg.	I'm thinking of you/I think about you.
@@ -46,8 +50,8 @@ høyre	right (side)
 right (side)	høyre
 venstre	left (side)
 left (side)	venstre
-m.e.h	a.s.l (above sea level)
-a.s.l (above sea level)	m.e.h
+m.o.h (meter over havet)	a.s.l (above sea level)
+a.s.l (above sea level)	m.o.h (meter over havet)
 aldri	never
 never	aldri
 alt (all)	all, everything
@@ -108,8 +112,8 @@ en gjest	jest<br>a guest<br>gjesten, gjester, gjestene
 a guest	en gjest<br>jest<br>gjesten, gjester, gjestene
 å glede seg	to look forward to<br>gleder seg, gledet seg, har gledet seg
 to look forward to	å glede seg<br>gleder seg, gledet seg, har gledet seg
-greit	all right
-all right	greit
+greit	grait<br>all right
+all right	greit<br>grait
 å ha lyst på	to want<br>har lyst på, hadde lyst på, har hatt lyst på
 to want	å ha lyst på<br>har lyst på, hadde lyst på, har hatt lyst på
 å hente	to pick up<br>henter, hentet, har hentet
@@ -120,14 +124,14 @@ en hybel	a bed-sitter, lodgings<br>hybelen, hybler, hyblene
 a bed-sitter, lodgings	en hybel<br>hybelen, hybler, hyblene
 høy	tall, loud, high<br>høyt, høye
 tall, loud, high	høy<br>høyt, høye
-inne	in, inside
-in, inside	inne
+inne	in, inside (static)
+in, inside (static)	inne
 et instrument	an instrument<br>instrumentet, instrumenter, instrumentene
 an instrument	et instrument<br>instrumentet, instrumenter, instrumentene
 ei inventarliste	a list of furniture, inventory<br>inventarlista, inventarlister, inventarlistene
 a list of furniture, inventory	ei inventarliste<br>inventarlista, inventarlister, inventarlistene
-en jus	a juice<br>jusen, juser, jusene
-a juice	en jus<br>jusen, juser, jusene
+en jus	jüs<br>a juice<br>jusen, juser, jusene
+a juice	en jus<br>jüs<br>jusen, juser, jusene
 en italiener	an Italian<br>italieneren, italienere, italienerne
 an Italian	en italiener<br>italieneren, italienere, italienerne
 kjempeflink	very good, clever<br>kjempeflinkt, kjempeflinke
@@ -160,8 +164,8 @@ mat	food<br>maten (uncountable)
 food	mat<br>maten (uncountable)
 melk	milk<br>melken (uncountable)
 milk	melk<br>melken (uncountable)
-et mobilnummer	a cell phone number<br>mobilnummeret, mobilnummer/mobilnumre, mobilnumbrene
-a cell phone number	et mobilnummer<br>mobilnummeret, mobilnummer/mobilnumre, mobilnumbrene
+et mobilnummer	a cell phone number<br>mobilnummeret, mobilnummer/mobilnumre, mobilnummerene
+a cell phone number	et mobilnummer<br>mobilnummeret, mobilnummer/mobilnumre, mobilnummerene
 en mobiltelefon	a mobile phone<br>mobiltelefonen, mobiltelefoner, mobiltelefonene
 a mobile phone	en mobiltelefon<br>mobiltelefonen, mobiltelefoner, mobiltelefonene
 moderne	modern<br>moderne, moderne
@@ -200,8 +204,8 @@ ei skive	a slice<br>skiva, skiver, skivene
 a slice	ei skive<br>skiva, skiver, skivene
 et skjema	a form<br>skjemaet, skjema, skjemaene
 a form	et skjema<br>skjemaet, skjema, skjemaene
-å skrive	to write<br>skriver, skrev skrevet
-to write	å skrive<br>skriver, skrev skrevet
+å skrive	to write<br>skriver, skrev, har skrevet
+to write	å skrive<br>skriver, skrev, har skrevet
 å skrive under	to sign<br>skriver under, skrev under, har skrevet under
 to sign	å skrive under<br>skriver under, skrev under, har skrevet under
 spennende	exciting<br>spennende, spennende
@@ -214,8 +218,8 @@ stille	quiet
 quiet	stille
 stor	big<br>stort, store
 big	stor<br>stort, store
-a stå opp	to get up<br>står opp, sto opp, har stått opp
-to get up	a stå opp<br>står opp, sto opp, har stått opp
+å stå opp	to get up<br>står opp, stod/sto opp, har stått opp
+to get up	å stå opp<br>står opp, stod/sto opp, har stått opp
 super	super<br>supert, supre
 super	super<br>supert, supre
 et søsken	a brother or sister, sibling<br>søskenet, søsken, søsknene
@@ -238,12 +242,12 @@ to meet	å treffe<br>treffer, traff, har truffet
 to dry	å tørke<br>tørker, tørket, har tørket
 under	under, below
 under, below	under
-ut	out
-out	ut
-ute	out, outside (dynamic)
-out, outside (dynamic)	ute
-utstyr	equipment<br>utstyret, utstyr, utstyrene
-equipment	utstyr<br>utstyret, utstyr, utstyrene
+ut	out (dynamic)
+out (dynamic)	ut
+ute	out, outside (static)
+out, outside (static)	ute
+utstyr	üütstür<br>equipment<br>utstyret, utstyr, utstyrene
+equipment	utstyr<br>üütstür<br>utstyret, utstyr, utstyrene
 vann	water<br>vannet (uncountable)
 water	vann<br>vannet (uncountable)
 en vannkoker	vannkuker<br>a kettle<br>vannkokeren, vannkokere, vannkokerne
@@ -272,8 +276,8 @@ på Moholt (studentby)	to Moholt (student village)
 to Moholt (student village)	på Moholt (studentby)
 i sentrum / i Midtbyen (only used in Trondheim)	to the city centre
 to the city centre	i sentrum / i Midtbyen (only used in Trondheim)
-Jeg borr på en liten hybel	I live in a small room/apartment.
-I live in a small room/apartment.	Jeg borr på en liten hybel
+Jeg bor på en liten hybel	I live in a small room/apartment.
+I live in a small room/apartment.	Jeg bor på en liten hybel
 Det er ei seng bak bordet.<br>Det står, er, ligger + Objekt + Location	There is a door ... like sentences<br>Den har ei dør is not often used.
 There is a door ... like sentences	Det er ei seng bak bordet.<br>Det står, er, ligger + Objekt + Location<br>Den har ei dør is not often used.
 I hjørnet står det et skap.	In the corner stands a cabinet.
@@ -296,8 +300,8 @@ ei kone	a wife
 a wife	ei kone
 en mann	a husband / a man<br>mannen, mange menn, alle mennene
 a husband / a man	en mann<br>mannen, mange menn, alle mennene
-en samboer	not married, but like husband/wife
-not married, but like husband/wife	en samboer
+en samboer	not married, but like husband/wife (lebenspartner)
+not married, but like husband/wife (lebenspartner)	en samboer
 Faren min	my father
 my father	Faren min
 Mora mi	my mother
@@ -312,10 +316,10 @@ søskenbarna mine	my cousins
 my cousins	søskenbarna mine
 et barn	a child<br>barnet, to barn, alle barna
 a child	et barn<br>barnet, to barn, alle barna
-min far	my father<br>formal, old fashioned and if you want to focus on "my"
-my father	min far<br>formal, old fashioned and if you want to focus on "my"
-mi mor	my mother<br>old fashioned, focusing on "my"
-my mother	mi mor<br>old fashioned, focusing on "my"
+min far	my father (focus on my)<br>formal, old fashioned and if you want to focus on "my"
+my father (focus on my)	min far<br>formal, old fashioned and if you want to focus on "my"
+mi mor	my mother (focus on my)<br>old fashioned, focusing on "my"
+my mother (focus on my)	mi mor<br>old fashioned, focusing on "my"
 hans	his
 his	hans
 mi	my (feminine)
@@ -336,16 +340,16 @@ farfar	grandfather (father's father)
 grandfather (father's father)	farfar
 farmor	grandmother
 grandmother	farmor
-en pensjonist	a retired person
-a retired person	en pensjonist
+en pensjonist	a retired person/pensionary
+a retired person/pensionary	en pensjonist
 hverandre	each other
 each other	hverandre
 begge	both
 both	begge
-en onkler	an uncle
-an uncle	en onkler
-som.<br>Jeg har ei søstre som er tjue år.	who (in a relative sentence)<br>I have a sister who's twenty years old.
-who (in a relative sentence)<br>I have a sister who's twenty years old.	som.<br>Jeg har ei søstre som er tjue år.
+en onkel	an uncle<br>onkelen, onkler, onklene
+an uncle	en onkel<br>onkelen, onkler, onklene
+som.<br>Jeg har ei søstre som er tjue år.	who, which, how (in a relative sentence)<br>I have a sister who's twenty years old.
+who, which, how (in a relative sentence)<br>I have a sister who's twenty years old.	som.<br>Jeg har ei søstre som er tjue år.
 dessuten (har jeg)	besides (I have)
 besides (I have)	dessuten (har jeg)
 alene	alone

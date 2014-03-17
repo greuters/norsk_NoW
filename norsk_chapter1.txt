@@ -32,8 +32,8 @@ Vi snakkes (i morgen)!	We'll talk (again) tomorrow!
 We'll talk (again) tomorrow!	Vi snakkes (i morgen)!
 morna	moana<br>See you (only used in oslo)
 See you (only used in oslo)	morna<br>moana
-en lærer	en läirer<br>a teacher
-a teacher	en lærer<br>en läirer
+en lærer	en läirer<br>a teacher<br>læreren, lærere, lærerne
+a teacher	en lærer<br>en läirer<br>læreren, lærere, lærerne
 en bil	a car
 a car	en bil
 en kvinne	a woman
@@ -316,12 +316,10 @@ deg	dai<br>you (singular, used as object)
 you (singular, used as object)	deg<br>dai
 den	it
 it	den
-der	there
-there	der
 der borte	over there
 over there	der borte
-dere	you (plural)
-you (plural)	dere
+dere	you (plural, subject+object)
+you (plural, subject+object)	dere
 det	it, that
 it, that	det
 det går bra!	I'm fine!
@@ -362,8 +360,6 @@ hallo	hello
 hello	hallo
 han	he, him
 he, him	han
-her	here
-here	her
 å hete	to be called<br>heter, het, har hett
 to be called	å hete<br>heter, het, har hett
 å hilse	to greet<br>hilser, hilste, har hilst
@@ -394,8 +390,8 @@ et kart	a map<br>kartet, kart, kartene
 a map	et kart<br>kartet, kart, kartene
 en kilometer	en chylometer<br>a kilometer<br>kilometeren, kilometer, kilometerne
 a kilometer	en kilometer<br>en chylometer<br>kilometeren, kilometer, kilometerne
-å komme	to come<br>kommer, kom, han kommet
-to come	å komme<br>kommer, kom, han kommet
+å komme	to come<br>kommer, kom, har kommet
+to come	å komme<br>kommer, kom, har kommet
 å koste	to cost<br>koster, kostet, har kostet
 to cost	å koste<br>koster, kostet, har kostet
 ei krone	ai krune<br>a crown<br>krona, kroner, kronene
@@ -500,3 +496,7 @@ a chair	en stol
 to play (specific games/instruments)	å spille<br>spiller, spilte, har spilt
 en mann	a husband / a man<br>mannen, mange menn, alle mennene
 a husband / a man	en mann<br>mannen, mange menn, alle mennene
+her	here (static)
+here (static)	her
+der	there (static)
+there (static)	der

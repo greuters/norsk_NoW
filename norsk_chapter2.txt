@@ -6,8 +6,8 @@ lørdag	saturday
 saturday	lørdag
 søndag	sunday
 sunday	søndag
-en forsker	a researcher<br>forskeren, mange forskere, alle forskerne
-a researcher	en forsker<br>forskeren, mange forskere, alle forskerne
+en forsker	en foschker<br>a researcher<br>forskeren, mange forskere, alle forskerne
+a researcher	en forsker<br>en foschker<br>forskeren, mange forskere, alle forskerne
 en tysker	a German<br>tyskeren, to tyskere, alle tyskerne
 a German	en tysker<br>tyskeren, to tyskere, alle tyskerne
 en spanjol	en spanjul<br>a Spanish
@@ -424,8 +424,8 @@ et øyeblikk	a moment
 a moment	et øyeblikk
 åtte	eight
 eight	åtte
-gul	yellow
-yellow	gul
+gul	güül<br>yellow
+yellow	gul<br>güül
 inn	in, inside, into, movement (herein)
 in, inside, into, movement (herein)	inn
 høyre	right (side)

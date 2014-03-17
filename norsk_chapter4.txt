@@ -152,3 +152,25 @@ color	farge
 to search for (used to search in the internet, not for "practical stuff")	å søke
 å lete etter	to search (practical stuff, e.g. clothes), to look for
 to search (practical stuff, e.g. clothes), to look for	å lete etter
+ei bru	a bridge<br>brua, bruer, bruene
+a bridge	ei bru<br>brua, bruer, bruene
+kjøkkenvekt	a kitchen scales/balance
+a kitchen scales/balance	kjøkkenvekt
+størrelse	size (grösse)
+size (grösse)	størrelse
+gulost	gülust<br>yellow cheese
+yellow cheese	gulost<br>gülust
+små	small
+small	små
+hit	here (dynamic)
+here (dynamic)	hit
+her	here (static)
+here (static)	her
+dit	there (dynamic)
+there (dynamic)	dit
+der	there (static)
+there (static)	der
+liten (bil), lita (bok), lite (skjerf), små (biler/bøker/skjerf)	small
+small	liten (bil), lita (bok), lite (skjerf), små (biler/bøker/skjerf)
+annen (bil), anna (bok), annet (skjerf), andre (biler/bøker/skjerf)	other
+other	annen (bil), anna (bok), annet (skjerf), andre (biler/bøker/skjerf)

@@ -1,0 +1,14 @@
+i går	yesterday
+yesterday	i går
+i forrige uke	last week
+last week	i forrige uke
+i fjor	last year
+last year	i fjor
+for (ti år) siden	(ten years) ago
+(ten years) ago	for (ti år) siden
+neste uke	next week
+next week	neste uke
+om (tre dager)	in (three days, future)
+in (three days, future)	om (tre dager)
+prosent	prusent<br>percent (%)
+percent (%)	prosent<br>prusent
