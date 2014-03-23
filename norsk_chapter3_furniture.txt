@@ -8,8 +8,8 @@ et skap	a closet/cupboard
 a closet/cupboard	et skap
 et skrivebord	a desk
 a desk	et skrivebord
-en vask	a sink
-a sink	en vask
+en vask	a sink<br>vasken, vasker, vaskene
+a sink	en vask<br>vasken, vasker, vaskene
 et badekar	a bath tub
 a bath tub	et badekar
 en dusj	a shower<br>dusjen, dusjer, dusjene

@@ -154,8 +154,8 @@ ei helg	ai helg<br>a weekend
 a weekend	ei helg<br>ai helg
 en måned	a month
 a month	en måned
-et år	a year
-a year	et år
+et år	a year<br>året, år, åra/årene
+a year	et år<br>året, år, åra/årene
 Hva er klokka? Hvor mye er klokka? Hvor mange er klokka?	What's the time?
 What's the time?	Hva er klokka? Hvor mye er klokka? Hvor mange er klokka?
 en minutt	one minute
@@ -264,8 +264,8 @@ luggage	bagasje<br>uncountable noun
 to pay	å betale<br>betaler, betalte, har betalt
 å bety	to mean<br>betyr, betydde, har betydd
 to mean	å bety<br>betyr, betydde, har betydd
-en billett	a ticket
-a ticket	en billett
+en billett	a ticket<br>billetten, billetter, billettene
+a ticket	en billett<br>billetten, billetter, billettene
 billetten	the ticket
 the ticket	billetten
 mange billetter	some tickets
@@ -322,8 +322,8 @@ en hjelp	a help
 a help	en hjelp
 å hjelpe	yelpe<br>to help<br>hjelper, hjalp, har hjulpet
 to help	å hjelpe<br>yelpe<br>hjelper, hjalp, har hjulpet
-en kafé	a café
-a café	en kafé
+en kafé	a café<br>kaféen, kaféer, kaféene
+a café	en kafé<br>kaféen, kaféer, kaféene
 en kaffe	short e<br>a coffee
 a coffee	en kaffe<br>short e
 kan (å kunne)	can, be able to
@@ -390,8 +390,8 @@ a sign, signpost	et skilt<br>schilt
 will, shall (infinitive)	å skulle<br>skal, skulle, har skullet
 å spise	to eat<br>spiser, spiste, har spist
 to eat	å spise<br>spiser, spiste, har spist
-å spørre	oa spörre, spör, spörte, harr spört<br>to ask<br>spør, spurte, har spurt
-to ask	å spørre<br>oa spörre, spör, spörte, harr spört<br>spør, spurte, har spurt
+å spørre	oa spörre, spör, spürte, harr spürt (nid schpörre)<br>to ask<br>spør, spurte, har spurt
+to ask	å spørre<br>oa spörre, spör, spürte, harr spürt (nid schpörre)<br>spør, spurte, har spurt
 å stenge	to close<br>stenger, stengte, har stengt
 to close	å stenge<br>stenger, stengte, har stengt
 å stå	to stand<br>står, sto, har stått

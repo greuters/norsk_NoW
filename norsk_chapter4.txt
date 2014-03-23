@@ -1,61 +1,61 @@
-vær så snitt	please (be so kind)
-please (be so kind)	vær så snitt
+vær så snill	please (be so kind) / you're welcome
+please (be so kind) / you're welcome	vær så snill
 Jeg vil gjerne ha	I'd like to have
 I'd like to have	Jeg vil gjerne ha
 Jeg liker å spise	I like eating
 I like eating	Jeg liker å spise
-frukt	fruits
-fruits	frukt
+ei/en frukt	a fruit<br>frukta/frukten, frukter, fruktene
+a fruit	ei/en frukt<br>frukta/frukten, frukter, fruktene
 vanligvis (normalt)	normally
 normally	vanligvis (normalt)
-frokost	breakfast
-breakfast	frokost
+en frokost	breakfast<br>frokosten, frokoster, frokostene
+breakfast	en frokost<br>frokosten, frokoster, frokostene
 Jeg pleier å spise frokost klokka 7.	I use to eat breakfast at seven.
 I use to eat breakfast at seven.	Jeg pleier å spise frokost klokka 7.
 Jeg pleier å trene to ganger i uka.	I use to train twice a week
 I use to train twice a week	Jeg pleier å trene to ganger i uka.
 en ost	ust<br>a cheese<br>osten, oster, ostene
 a cheese	en ost<br>ust<br>osten, oster, ostene
-et knekkebrød	ein knäckebrot
-ein knäckebrot	et knekkebrød
-å begynne	to start
-to start	å begynne
-å slutte	to stop
-to stop	å slutte
+et knekkebrød	a crispbread (ein knäckebrot)<br>knekkebrødet, knekkebrød, knekkebrødene
+a crispbread (ein knäckebrot)	et knekkebrød<br>knekkebrødet, knekkebrød, knekkebrødene
+å begynne	to start<br>begynner, begynte, har begynt
+to start	å begynne<br>begynner, begynte, har begynt
+å slutte	to stop/conclude/complete<br>slutter, sluttet/slutta, har sluttet/slutta
+to stop/conclude/complete	å slutte<br>slutter, sluttet/slutta, har sluttet/slutta
 Jeg begynner å lage mat kl. 10.	I start cooking at 10.
 I start cooking at 10.	Jeg begynner å lage mat kl. 10.
 Jeg slutter å jobbe kl. 15.30.	I stop working at 15.30.
 I stop working at 15.30.	Jeg slutter å jobbe kl. 15.30.
-klær	clothes
-clothes	klær
-en bluse	a blouse
-a blouse	en bluse
-ei bukse	a pair of trousers
-a pair of trousers	ei bukse
-en dress	a suit
-a suit	en dress
+klær	clothes<br>klærne (uncountable)
+clothes	klær<br>klærne (uncountable)
+ei/en bluse	a blouse<br>blusa/blusen, bluser, blusene
+a blouse	ei/en bluse<br>blusa/blusen, bluser, blusene
+ei/en bukse	pants/trousers<br>buksa/buksen, bukser, buksene
+pants/trousers	ei/en bukse<br>buksa/buksen, bukser, buksene
+en dress	a suit<br>dressen, dresser, dressene
+a suit	en dress<br>dressen, dresser, dressene
 en frakk	a men's coat
 a men's coat	en frakk
-ei jakke	a jacket
-a jacket	ei jakke
-en kjole	a dress
-a dress	en kjole
+ei jakke	a jacket<br>ei/en jakke, jakka/jakken, jakker, jakkene
+a jacket	ei jakke<br>ei/en jakke, jakka/jakken, jakker, jakkene
+en kjole	a dress<br>kjolen, kjoler, kjolene
+a dress	en kjole<br>kjolen, kjoler, kjolene
 setter seg for å gjøre (.. for å ..)	to sit down to do something; (... to ...)
 to sit down to do something; (... to ...)	setter seg for å gjøre (.. for å ..)
-et badet	the bathroom
-the bathroom	et badet
-å vete 	to know<br>vet, 
-to know	å vete <br>vet, 
-å gleder seg til	to look forward to
-to look forward to	å gleder seg til
+et bad	a bathroom/a bath<br>badet, bad, badene
+a bathroom/a bath	et bad<br>badet, bad, badene
+å vite	to know<br>vet, visste, har visst
+to know	å vite<br>vet, visste, har visst
+å glede seg til	to look forward to<br>gleder, gleda/gledet/gledde, har gleda/gledet/gledd
+to look forward to	å glede seg til<br>gleder, gleda/gledet/gledde, har gleda/gledet/gledd
 Det blir spennende.	It's going to be exciting
 It's going to be exciting	Det blir spennende.
-å synes	to think (after personal experience, my opinion)<br>synes, 
-to think (after personal experience, my opinion)	å synes<br>synes, 
+å synes	to think (after personal experience, my opinion)<br>synes/syns, syntes, har syntes
+to think (after personal experience, my opinion)	å synes<br>synes/syns, syntes, har syntes
 å tenke	to think (rational, prediction)<br>tenker, tenkte, har tenkt
 to think (rational, prediction)	å tenke<br>tenker, tenkte, har tenkt
-å tro	to believe (think, after hearsay)<br>tror
-to believe (think, after hearsay)	å tro<br>tror
+å tro	to believe (think, after hearsay)<br>tror, trodde, har trodd
+to believe (think, after hearsay)	å tro<br>tror, trodde, har trodd
 å tro på Gud	to believe in God
 to believe in God	å tro på Gud
 Jeg tenker på deg.	I think about you.
@@ -64,8 +64,8 @@ igjen	iyen<br>again, left (300 km left)
 again, left (300 km left)	igjen<br>iyen
 Jeg tror det er 300 km.	I guess it is 300 km.
 I guess it is 300 km.	Jeg tror det er 300 km.
-å gjette	to guess (like in gambling)<br>Kan du gjette hvor gammel jeg er?
-to guess (like in gambling)	å gjette<br>Kan du gjette hvor gammel jeg er?
+å gjette	to guess (like in gambling)<br>Kan du gjette hvor gammel jeg er?<br>gjetter, gjetta/gjettet, har gjetta/gjettet
+to guess (like in gambling)	å gjette<br>Kan du gjette hvor gammel jeg er?<br>gjetter, gjetta/gjettet, har gjetta/gjettet
 den her = denne	this
 this	den her = denne
 den der = den	that

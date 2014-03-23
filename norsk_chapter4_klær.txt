@@ -1,31 +1,31 @@
-ei kåpe	a women's coat
-a women's coat	ei kåpe
-ei skjorte	a shirt<br>
-a shirt<br>	ei skjorte
-å ta på seg + object	to dress
-to dress	å ta på seg + object
+ei kåpe	a women's coat/robe<br>used in badekåpe (bathrobe), morgenkåpe (dressing gown)
+a women's coat/robe	ei kåpe<br>used in badekåpe (bathrobe), morgenkåpe (dressing gown)
+ei/en skjorte	schurtä<br>a shirt<br><br>skjorta/skjorten, skjorter, skjortene
+a shirt<br>	ei/en skjorte<br>schurtä<br>skjorta/skjorten, skjorter, skjortene
+å ta på seg + object	to dress/put on something
+to dress/put on something	å ta på seg + object
 å ha på seg	to wear
 to wear	å ha på seg
-en hettegenser	a hoodie
-a hoodie	en hettegenser
+en hettegenser	a hoodie<br>hettegenseren, hettegenserer, hettegenserene
+a hoodie	en hettegenser<br>hettegenseren, hettegenserer, hettegenserene
 ei hettejakke	a hooded jacket
 a hooded jacket	ei hettejakke
-en shorts	a pair of shors
-a pair of shors	en shorts
-et skjørt	et schört<br>a skirt
-a skirt	et skjørt<br>et schört
-ei T-skjorte	Te-schurte<br>a T-shirt
-a T-shirt	ei T-skjorte<br>Te-schurte
-hansker	gloves
-gloves	hansker
+shorts	shorts<br>shorts
+shorts	shorts<br>shorts
+et skjørt	et schört<br>a skirt<br>skjørtet, skjørt/skjørter, skjørta/skjørtene
+a skirt	et skjørt<br>et schört<br>skjørtet, skjørt/skjørter, skjørta/skjørtene
+ei/en T-skjorte	Te-schurte<br>a T-shirt<br>T-skjorta/T-skjorten, T-skjorter, T-skjortene
+a T-shirt	ei/en T-skjorte<br>Te-schurte<br>T-skjorta/T-skjorten, T-skjorter, T-skjortene
+en hanske	??<br>a glove<br>hansken, hansker, hanskene
+a glove	en hanske<br>??<br>hansken, hansker, hanskene
 en hatt	a hat
 a hat	en hatt
-ei lue	a (winter) cap
-a (winter) cap	ei lue
-et slips	a tie
-a tie	et slips
-et skjerf	a scarf
-a scarf	et skjerf
+ei/en lue	a (winter) cap<br>lua/luen, luer, luene
+a (winter) cap	ei/en lue<br>lua/luen, luer, luene
+et slips	a tie<br>slipset, slips, slipser/slipsa
+a tie	et slips<br>slipset, slips, slipser/slipsa
+et skjerf	a scarf<br>skjerfet, skjerf, skjerfene/skjerfa
+a scarf	et skjerf<br>skjerfet, skjerf, skjerfene/skjerfa
 et skaut	a head scarf
 a head scarf	et skaut
 en sko	shoe/shoes<br>skoen, to sko, skoene (note the exception)

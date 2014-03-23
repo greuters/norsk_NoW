@@ -92,8 +92,8 @@ en far	a father<br>faren, to fedre, alle fedrene
 a father	en far<br>faren, to fedre, alle fedrene
 fin	fine<br>fint, fine
 fine	fin<br>fint, fine
-en frokost	a breakfast<br>frokosten, frokoster, frokostene
-a breakfast	en frokost<br>frokosten, frokoster, frokostene
+en frokost	frukost<br>a breakfast<br>frokosten, frokoster, frokostene
+a breakfast	en frokost<br>frukost<br>frokosten, frokoster, frokostene
 å fylle ut	to fill in<br>fyller ut, fylte ut, har fylt ut
 to fill in	å fylle ut<br>fyller ut, fylte ut, har fylt ut
 fæl	awful<br>fælt, fæle
@@ -200,8 +200,8 @@ to sit down	å sette seg<br>setter seg, satte seg, har satt seg
 to say	å si<br>sier, sa, har sagt
 en sjokolade	a chocolate<br>sjokoladen, sjokolader, sjokoladene
 a chocolate	en sjokolade<br>sjokoladen, sjokolader, sjokoladene
-ei skive	a slice<br>skiva, skiver, skivene
-a slice	ei skive<br>skiva, skiver, skivene
+ei skive	schive<br>a slice<br>skiva, skiver, skivene
+a slice	ei skive<br>schive<br>skiva, skiver, skivene
 et skjema	a form<br>skjemaet, skjema, skjemaene
 a form	et skjema<br>skjemaet, skjema, skjemaene
 å skrive	to write<br>skriver, skrev, har skrevet
@@ -246,8 +246,8 @@ ut	out (dynamic)
 out (dynamic)	ut
 ute	out, outside (static)
 out, outside (static)	ute
-utstyr	üütstür<br>equipment<br>utstyret, utstyr, utstyrene
-equipment	utstyr<br>üütstür<br>utstyret, utstyr, utstyrene
+et utstyr	üütstür<br>equipment<br>utstyret, utstyr, utstyrene
+equipment	et utstyr<br>üütstür<br>utstyret, utstyr, utstyrene
 vann	water<br>vannet (uncountable)
 water	vann<br>vannet (uncountable)
 en vannkoker	vannkuker<br>a kettle<br>vannkokeren, vannkokere, vannkokerne
@@ -260,8 +260,8 @@ et vindu	a window<br>vinduet, vinduer, vinduene
 a window	et vindu<br>vinduet, vinduer, vinduene
 å vite	to know<br>vet, visste, har visst
 to know	å vite<br>vet, visste, har visst
-en skyss	used for taxi (jeg får skyss=I'll take the taxi/somebody gives me a lift)<br>fahrgelegenheit
-used for taxi (jeg får skyss=I'll take the taxi/somebody gives me a lift)<br>fahrgelegenheit	en skyss
+en skyss (jeg får skyss)	used for taxi (I'll take the taxi/somebody gives me a lift)<br>fahrgelegenheit
+used for taxi (I'll take the taxi/somebody gives me a lift)<br>fahrgelegenheit	en skyss (jeg får skyss)
 vent litt/kan du vente to sekunder	wait a minute<br>more used than øyeblikk in everyday life
 wait a minute	vent litt/kan du vente to sekunder<br>more used than øyeblikk in everyday life
 mett	full (not hungry)
@@ -356,8 +356,8 @@ alene	alone
 alone	alene
 siden	since
 since	siden
-døde	died
-died	døde
+å dø	to die<br>dør, døde, dødd
+to die	å dø<br>dør, døde, dødd
 hele (familien)	whole (family)
 whole (family)	hele (familien)
 å kle på seg	to dress
@@ -378,8 +378,8 @@ Han vasker han.	He's washing him (another person).
 He's washing him (another person).	Han vasker han.
 Vi vasker oss.	We wash ourselves.
 We wash ourselves.	Vi vasker oss.
-Dere vasker dere.	They wash themselves.
-They wash themselves.	Dere vasker dere.
+Dere vasker dere.	You wash yourselves.
+You wash yourselves.	Dere vasker dere.
 De vasker seg.	They wash themselves.
 They wash themselves.	De vasker seg.
 å glede seg til	to look forward to
@@ -400,30 +400,30 @@ en kopp kaffe	a cup of coffee
 a cup of coffee	en kopp kaffe
 et glass vann	a glass of water
 a glass of water	et glass vann
-en banan	a banana
-a banana	en banan
-et kakestykke	a piece of cake
-a piece of cake	et kakestykke
+en banan	a banana<br>bananen, bananer, bananene
+a banana	en banan<br>bananen, bananer, bananene
+et kakestykke	a piece of cake<br>kakestykket, kakestykker, kakestykkene/kakestykka
+a piece of cake	et kakestykke<br>kakestykket, kakestykker, kakestykkene/kakestykka
 et glass brus	a glass of soda
 a glass of soda	et glass brus
 ei brødskive	brödschive<br>a slice of bread<br>brødskiva, brødskiver, brødskivene
 a slice of bread	ei brødskive<br>brödschive<br>brødskiva, brødskiver, brødskivene
-ei pære	a pear
-a pear	ei pære
+ei/en pære	a pear<br>pæra/pæren, pærer, pærene
+a pear	ei/en pære<br>pæra/pæren, pærer, pærene
 syltetøy	sültetöy<br>jam
 jam	syltetøy<br>sültetöy
 appelsinjus	appelsinjüs<br>orange juice
 orange juice	appelsinjus<br>appelsinjüs
-et rundstykke	a piece of bread (not sweet) / brötchen
-a piece of bread (not sweet) / brötchen	et rundstykke
-boller	a piece of bread (sweet)
-a piece of bread (sweet)	boller
-grønnsaker	vegetables
-vegetables	grønnsaker
-kjøtt	meat
-meat	kjøtt
-fisk	fish
-fish	fisk
+et rundstykke	a small bread (not sweet) / brötchen<br>rundstykket, rundstykker, rundstykkene
+a small bread (not sweet) / brötchen	et rundstykke<br>rundstykket, rundstykker, rundstykkene
+en bolle	a sweet, small bread (süsses brötchen)<br>bollen, boller, bollene
+a sweet, small bread (süsses brötchen)	en bolle<br>bollen, boller, bollene
+ei/en grønnsak	a vegetable<br>grønnsaka/grønnsaken, grønnsaker, grønnsakene
+a vegetable	ei/en grønnsak<br>grønnsaka/grønnsaken, grønnsaker, grønnsakene
+et kjøtt	meat<br>kjøttet, kjøtt, kjøtta/kjøttene
+meat	et kjøtt<br>kjøttet, kjøtt, kjøtta/kjøttene
+en fisk	fisk<br>a fish<br>fisken, fisker, fiskene
+a fish	en fisk<br>fisk<br>fisken, fisker, fiskene
 en ost	ust<br>a cheese<br>osten, oster, ostene
 a cheese	en ost<br>ust<br>osten, oster, ostene
 å tenke	to think (rational, prediction)<br>tenker, tenkte, har tenkt

@@ -12,3 +12,17 @@ om (tre dager)	in (three days, future)
 in (three days, future)	om (tre dager)
 prosent	prusent<br>percent (%)
 percent (%)	prosent<br>prusent
+ei/en gate	a street<br>gata/gaten, gater, gatene
+a street	ei/en gate<br>gata/gaten, gater, gatene
+å reise	to travel<br>reiser, reiste, har reist
+to travel	å reise<br>reiser, reiste, har reist
+å pleie, å pleie å gjøre noe	to look after/care, to use to do sth (etwas zu tun pflegen)<br>pleier, pleia/pleiet/pleide, har pleia/pleiet/pleid
+to look after/care, to use to do sth (etwas zu tun pflegen)	å pleie, å pleie å gjøre noe<br>pleier, pleia/pleiet/pleide, har pleia/pleiet/pleid
+ei/en hette	a hat (eine kappe)<br>hetta/hetten, hetter, hettene
+a hat (eine kappe)	ei/en hette<br>hetta/hetten, hetter, hettene
+ikke bare.. men også	not only.. but .. as well
+not only.. but .. as well	ikke bare.. men også
+nok	enough
+enough	nok
+å syne seg	to become apparent<br>synes seg
+to become apparent	å syne seg<br>synes seg

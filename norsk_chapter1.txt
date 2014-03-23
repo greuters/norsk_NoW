@@ -94,8 +94,8 @@ Hva heter 17 på norsk?	How do you say 17 in norwegian?
 How do you say 17 in norwegian?	Hva heter 17 på norsk?
 Hva betyr "seinere" på engelsk?	What does "seinere" mean in English?
 What does "seinere" mean in English?	Hva betyr "seinere" på engelsk?
-å forstå	oa foschtoh<br>to understand
-to understand	å forstå<br>oa foschtoh
+å forstå	oa foschtoh<br>to understand<br>forstår, forstod, har forstått
+to understand	å forstå<br>oa foschtoh<br>forstår, forstod, har forstått
 Kan du gjenta?	kan dü jenta?<br>Could you repeat?
 Could you repeat?	Kan du gjenta?<br>kan dü jenta?
 å leke med (ball, biler, dokker)	to play with (ball, cars, dolls)<br>without fixed/given rules
@@ -416,8 +416,6 @@ over	of, over
 of, over	over
 en professor	a professor<br>professoren, professorer, professorene
 a professor	en professor<br>professoren, professorer, professorene
-å reise	to travel<br>reiser, reiste, har reist
-to travel	å reise<br>reiser, reiste, har reist
 sammen	together
 together	sammen
 seinere	later
@@ -470,8 +468,8 @@ en dag	a day<br>dagen, dager, dagene
 a day	en dag<br>dagen, dager, dagene
 en bensinstasjon	a petrol station
 a petrol station	en bensinstasjon
-et år	a year
-a year	et år
+et år	a year<br>året, år, åra/årene
+a year	et år<br>året, år, åra/årene
 av	off (the train), of, by, from
 off (the train), of, by, from	av
 å dra	to leave, to go (travel, move)<br>drar, dro, har dratt
@@ -486,8 +484,8 @@ et nummer	nummer<br>a number
 a number	et nummer<br>nummer
 å se	oa se<br>to see<br>ser, så, har sett
 to see	å se<br>oa se<br>ser, så, har sett
-å spørre	oa spörre, spör, spörte, harr spört<br>to ask<br>spør, spurte, har spurt
-to ask	å spørre<br>oa spörre, spör, spörte, harr spört<br>spør, spurte, har spurt
+å spørre	oa spörre, spör, spürte, harr spürt (nid schpörre)<br>to ask<br>spør, spurte, har spurt
+to ask	å spørre<br>oa spörre, spör, spürte, harr spürt (nid schpörre)<br>spør, spurte, har spurt
 et bord	e bur<br>a table
 a table	et bord<br>e bur
 en stol	a chair
@@ -500,3 +498,5 @@ her	here (static)
 here (static)	her
 der	there (static)
 there (static)	der
+å reise	to travel<br>reiser, reiste, har reist
+to travel	å reise<br>reiser, reiste, har reist
